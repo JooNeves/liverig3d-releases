@@ -1,18 +1,18 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.33",
+  "version": "4.9.34",
   "date": "2026-10-30",
-  "notes": "Correção: a atualização automática no Windows passa a instalar a versão nova. Botão Comprar licença na janela da licença.",
-  "notesEn": "Fix: the Windows automatic update now installs the new version. Buy licence button in the licence window.",
+  "notes": "GDTF dos sites dos fabricantes (ex. Leding), também dentro dos zips; no import do MVR depois da GDTF Share. Limpar os GDTF só-Dummy. Segundo bloqueio da licença.",
+  "notesEn": "GDTF from manufacturer websites (e.g. Leding), also inside zips; used in MVR import after GDTF Share. Remove Dummy-only GDTF. Second licence lock.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip"
   },
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "e15d10486d9ce514c63db2c926197ba4496a183366517bd48d0bb4e6e6f943de",
-      "size": 26648857,
-      "sig": "a4ffcdd8a553c43bed17c93f90d75fa82d969be752d29761a98b5ea3d02fbdc4301b33889993168f01bfc21d883703ec73df87e7a92833f2516263a6b00efa05"
+      "sha256": "8265fb5498ffaf8a71e591b087143a6a4ffb81ddcdbf821248bd7090e8b3091a",
+      "size": 26693501,
+      "sig": "5fba54372cf12942fd60b4a518bd2b1631500e110d4b99ca2b880508ee06ffbd64bab8e69244c1610924b783713e907bd0ce039d82edac6d0d6088b93f91eb00"
     }
   }
 }
