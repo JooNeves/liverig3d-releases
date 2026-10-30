@@ -1,0 +1,7 @@
+{
+  "format": "liverig3d-makers",
+  "note": "Marcas que põem os GDTF no site delas (não na GDTF Share). A app LiveRig3D lê esta lista. / Brands that publish GDTF on their own website.",
+  "makers": [
+    { "brand": "Leding", "site": "https://leding.pt", "pages": ["https://leding.pt/product-doc/"] }
+  ]
+}
