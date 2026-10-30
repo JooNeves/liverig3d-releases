@@ -5,6 +5,8 @@
 - `update.json` — a versão mais recente e o pacote de cada sistema.
 - `windows/LiveRig3D-windows.zip` — a versão mais recente para Windows (o link fica sempre o mesmo):
   https://github.com/JooNeves/liverig3d-releases/raw/main/windows/LiveRig3D-windows.zip
+- `mac/LiveRig3D-mac.dmg` — a versão mais recente para Mac (o link fica sempre o mesmo; a primeira vez abre-se com botão direito ▸ Abrir):
+  https://github.com/JooNeves/liverig3d-releases/raw/main/mac/LiveRig3D-mac.dmg
 
 **EN** — This repository holds the LiveRig3D releases and the `update.json` file the app reads to check for a new version. Every package is signed; the app only installs packages with a valid signature. A licence is required to use the app.
 
