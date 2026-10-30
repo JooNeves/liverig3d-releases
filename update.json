@@ -1,0 +1,18 @@
+{
+  "format": "rigcalc-updates",
+  "version": "4.9.31",
+  "date": "2026-10-30",
+  "notes": "Primeira versão com licença (Creem). Atualização automática no Windows.",
+  "notesEn": "First version with a licence (Creem). Automatic updates on Windows.",
+  "downloads": {
+    "windows": "https://github.com/JooNeves/liverig3d-releases/tree/main/windows"
+  },
+  "packages": {
+    "windows": {
+      "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-4.9.31-windows.zip",
+      "sha256": "5166866ebaa7250bb187df20f3fdfa559ccb0cae12853eba066121b7dd91f232",
+      "size": 26648516,
+      "sig": "843d7b4d27e8f63bbe515f4dec0dc8c77306c7da8d2fa34a567bd4d04ff150fd7973f19a850b8a5c4fe8488265cbd0d5c7184eb1ae4f80faa7af522480217c08"
+    }
+  }
+}
