@@ -1,25 +1,18 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.35",
+  "version": "4.9.36",
   "date": "2026-10-30",
-  "notes": "Versão do Mac para outros Macs: universal (chip Apple e Intel), macOS 12 ou mais recente.",
-  "notesEn": "Mac build for other Macs: universal (Apple silicon and Intel), macOS 12 or later.",
+  "notes": "Línguas: português, inglês e francês (Ver ▸ Língua, muda logo). \"Livraria\" passa a \"Biblioteca\".",
+  "notesEn": "Languages: Portuguese, English and French (View ▸ Language, switches immediately).",
   "downloads": {
-    "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-    "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
+    "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip"
   },
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "260c388c9cb7248e497116ca7f325ef62aceaeec39ede28c0036b82392b3566f",
-      "size": 26693501,
-      "sig": "4d50e753c6fddf78e37761a32fc52feffaf06cad29a06851275a82423751b05ae19c08fbefa85c399efa2ef36e66a310d806a1b0ece893ec92efb1f6c907e204"
-    },
-    "mac": {
-      "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "4ac319a9ed1ed48c50f3acfae8d0e59fe77c19cd8fb41f35a82e58ebd2911a04",
-      "size": 38300295,
-      "sig": "172d62885ae65cd5340ffaed4645da657f6af8951809e4b2cd772ec5a75a953cfaee576fa170d5b2e61afd1cc26fe46946919617b0b858dc2e2155690383d006"
+      "sha256": "53d23e19cb1b7f80264c19028ed17c6e36d0fe744c6fbf86d1b1aa375a87bb13",
+      "size": 26902116,
+      "sig": "46b7a3c2d0cf3222cff8d51d984fcf56a3035948b8ac94da9ba9f55d6dc0be8a31dc9c5e85a287f8d38caabaa88b2422813ce428c9f45411847d353c3253c301"
     }
   }
 }
