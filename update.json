@@ -5,11 +5,11 @@
   "notes": "Correção: a atualização automática no Windows passa a instalar a versão nova. Botão Comprar licença na janela da licença.",
   "notesEn": "Fix: the Windows automatic update now installs the new version. Buy licence button in the licence window.",
   "downloads": {
-    "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-4.9.33-windows.zip"
+    "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip"
   },
   "packages": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-4.9.33-windows.zip",
+      "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
       "sha256": "e15d10486d9ce514c63db2c926197ba4496a183366517bd48d0bb4e6e6f943de",
       "size": 26648857,
       "sig": "a4ffcdd8a553c43bed17c93f90d75fa82d969be752d29761a98b5ea3d02fbdc4301b33889993168f01bfc21d883703ec73df87e7a92833f2516263a6b00efa05"
