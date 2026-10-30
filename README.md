@@ -13,3 +13,5 @@
 - `update.json` — the latest version and the package for each system.
 - `windows/LiveRig3D-windows.zip` — the latest Windows version (the link never changes):
   https://github.com/JooNeves/liverig3d-releases/raw/main/windows/LiveRig3D-windows.zip
+- `mac/LiveRig3D-mac.dmg` — the latest Mac version (the link never changes; the first time open it with right-click ▸ Open):
+  https://github.com/JooNeves/liverig3d-releases/raw/main/mac/LiveRig3D-mac.dmg
