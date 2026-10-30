@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.34",
+  "version": "4.9.35",
   "date": "2026-10-30",
-  "notes": "GDTF dos sites dos fabricantes (ex. Leding), também dentro dos zips; no import do MVR depois da GDTF Share. Limpar os GDTF só-Dummy. Segundo bloqueio da licença.",
-  "notesEn": "GDTF from manufacturer websites (e.g. Leding), also inside zips; used in MVR import after GDTF Share. Remove Dummy-only GDTF. Second licence lock.",
+  "notes": "Versão do Mac para outros Macs: universal (chip Apple e Intel), macOS 12 ou mais recente.",
+  "notesEn": "Mac build for other Macs: universal (Apple silicon and Intel), macOS 12 or later.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "8265fb5498ffaf8a71e591b087143a6a4ffb81ddcdbf821248bd7090e8b3091a",
+      "sha256": "260c388c9cb7248e497116ca7f325ef62aceaeec39ede28c0036b82392b3566f",
       "size": 26693501,
-      "sig": "5fba54372cf12942fd60b4a518bd2b1631500e110d4b99ca2b880508ee06ffbd64bab8e69244c1610924b783713e907bd0ce039d82edac6d0d6088b93f91eb00"
+      "sig": "4d50e753c6fddf78e37761a32fc52feffaf06cad29a06851275a82423751b05ae19c08fbefa85c399efa2ef36e66a310d806a1b0ece893ec92efb1f6c907e204"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "023ccfdbc7e9c96d564934bcb576d43e302c390af70ad1b99346a7341c4bbe8a",
-      "size": 39064209,
-      "sig": "dd6a5a92db7806edd4b60f57d4e6784e27005897cd94d0f2857cbafc999b6ace4b19642d7a4f27cd9d868979844b138f3b2ac73b2f7accfdb82deb45b0000d08"
+      "sha256": "4ac319a9ed1ed48c50f3acfae8d0e59fe77c19cd8fb41f35a82e58ebd2911a04",
+      "size": 38300295,
+      "sig": "172d62885ae65cd5340ffaed4645da657f6af8951809e4b2cd772ec5a75a953cfaee576fa170d5b2e61afd1cc26fe46946919617b0b858dc2e2155690383d006"
     }
   }
 }
