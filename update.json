@@ -1,18 +1,25 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.38",
+  "version": "4.9.39",
   "date": "2026-10-31",
-  "notes": "Painéis laterais que recolhem sozinhos (Ver ▸ Painéis laterais recolhem sozinhos). Aba Câmaras: câmaras do projeto e 1, 2 ou 4 vistas com a luz. Aba Equipamento: lista por áreas, stock por parques (nossos e de outras empresas) e regras do rig por motor.",
-  "notesEn": "Auto-hiding side panels (View ▸ Side panels auto-hide). Cameras tab: project cameras and 1, 2 or 4 lit views. Equipment tab: list by area, stock by warehouse (ours and other companies') and per-hoist rig rules.",
+  "notes": "Câmaras dentro das vistas do CAD, Rigging, Simulação e Live (caixa Câmara e Gerir câmaras…); Simulação e Live com 1, 2 ou 4 vistas. Painéis laterais que recolhem sozinhos (Ver). Aba Equipamento: lista por áreas, stock por parques e regras do rig.",
+  "notesEn": "Cameras inside the CAD, Rigging, Simulation and Live views (Camera box and Manage cameras…); Simulation and Live with 1, 2 or 4 views. Auto-hiding side panels (View). Equipment tab: list by area, warehouse stock and rig rules.",
   "downloads": {
-    "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip"
+    "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
+    "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
   },
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "87e28c961b2872676278f75e38b8fbd69494d96798b9bcf56d86ba24f6ed3fe1",
-      "size": 27024261,
-      "sig": "7903cfc5bf2cf9aed010c96401db26930bf8ed82c4f56c176f1716207e5cec532549179daab806f03d94cb50be55ba4dfb7a0e67bbaaf11843e38fd467cf0508"
+      "sha256": "4b3b69d84f09fe96f3b1387698b61a293e807645b5a4ea2072fd6443477d6583",
+      "size": 27024870,
+      "sig": "0beda1750525b055e96b1caf0bdc5820e507d2ef392d96ac43412543aa5df1337c13d9ed0c72ada1a4c4ee3ff00a4a8f7483221009e293de6c5f836bb99be501"
+    },
+    "mac": {
+      "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
+      "sha256": "9649f42aae674a3877b25ad05165a359575becca1b0f9276c9396a565fad30b5",
+      "size": 38874341,
+      "sig": "2555d3ebd477b5827dfc2c7b596800108e961ae771bada44a97a9bffcd45d577eddf813debbd1759c64d9823e3b9b8e787231513336e4f5ac3dc7281217c7101"
     }
   }
 }
