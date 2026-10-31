@@ -1,25 +1,18 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.37",
-  "date": "2026-10-30",
-  "notes": "Línguas PT/EN/FR (Ver ▸ Língua). Painéis da esquerda encolhem; barras do CAD só no CAD; Ver ▸ Etiquetas esconde etiquetas por tipo; Traço com o fundo do tema; revisões V1-01, V1-02… em cada gravação.",
-  "notesEn": "Languages PT/EN/FR (View ▸ Language). Left panels shrink; CAD toolbars only in CAD; View ▸ Labels hides labels by type; Line art keeps the theme background; revisions V1-01, V1-02… on every save.",
+  "version": "4.9.38",
+  "date": "2026-10-31",
+  "notes": "Painéis laterais que recolhem sozinhos (Ver ▸ Painéis laterais recolhem sozinhos). Aba Câmaras: câmaras do projeto e 1, 2 ou 4 vistas com a luz. Aba Equipamento: lista por áreas, stock por parques (nossos e de outras empresas) e regras do rig por motor.",
+  "notesEn": "Auto-hiding side panels (View ▸ Side panels auto-hide). Cameras tab: project cameras and 1, 2 or 4 lit views. Equipment tab: list by area, stock by warehouse (ours and other companies') and per-hoist rig rules.",
   "downloads": {
-    "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-    "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
+    "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip"
   },
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "1e80509557779e765ce5806eeef1a7215573fb82c21cc0b8a7b1f5dd4f97043d",
-      "size": 26918864,
-      "sig": "d80c7ce118f5e1c4ce7d126c6958107de16d723760458117635dda20e4e46cb508f6f381b5d45910d8ac2621ef1b830b1c559a5df6af23108a70b17da4b8820e"
-    },
-    "mac": {
-      "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "cea478e77353e2db5dd59cab7c6c31c81b81ac658ccd75903ead09a4c58b722d",
-      "size": 38676870,
-      "sig": "08bd4b7b07cba4c210d0b693e31f8d613ce21a8ad6c47159cbae479b251d09188572b3efe39396426d50fd8bb97e7114cc7bdc49b689375c76145bc76c6b5b08"
+      "sha256": "87e28c961b2872676278f75e38b8fbd69494d96798b9bcf56d86ba24f6ed3fe1",
+      "size": 27024261,
+      "sig": "7903cfc5bf2cf9aed010c96401db26930bf8ed82c4f56c176f1716207e5cec532549179daab806f03d94cb50be55ba4dfb7a0e67bbaaf11843e38fd467cf0508"
     }
   }
 }
