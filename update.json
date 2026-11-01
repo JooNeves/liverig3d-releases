@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.41",
+  "version": "4.9.42",
   "date": "2026-11-01",
-  "notes": "Motores escolhem-se em todas as vistas e só se movem com Ctrl+M; bridles e motores seguem os truss; motor no vértice da bridle; zoom na ponta da seta e Shift + roda = zoom fino; converter mantém layer e altura, blocos redondos dão truss curvo, arcos de tenda inteiros em viga; cor própria; separar o curvo em arcos e arco pelo nº de peças; espelhar; MVR escolhido por marca e modelo; layers em grupo para todos os escolhidos; layouts sem a revisão.",
-  "notesEn": "Hoists can be picked in every view and move only with Ctrl+M; bridles and hoists follow trusses; hoist at the bridle apex; zoom at the pointer and Shift + wheel = fine zoom; converting keeps layer and height, round blocks give curved truss, whole tent arches become beams; own colour; split curved truss into arcs and arc by piece count; mirror; MVR picked by brand and model; layer grouping for all selected; layouts without the revision.",
+  "notes": "Gravação automática com o tempo à escolha (Ficheiro ▸ Gravação automática…, de origem 5 minutos; ficam as últimas 20). Ao fechar a app, tudo o que se fez fica gravado e volta assim que a app abrir; se a app for abaixo, abre com o último autosave.",
+  "notesEn": "Autosave with a chosen interval (File ▸ Autosave…, default 5 minutes; the last 20 are kept). On close, everything done is saved and comes back when the app opens; after a crash the app opens with the last autosave.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "f5e74bb77a469d7056bcc6b98ab3b7b437fec180132ea1562aa2aed46739702d",
-      "size": 27124092,
-      "sig": "80a73564d30e2780a77366ca5e15dd089541c1ec0143d5a04657d31d9987410a393b0a09ea64639d80d9ab07be7873b8d6c7ba487ed8f7e242ab3757ec6c8a04"
+      "sha256": "7b932442b5e09ea4b0273a8a52c4092b7fac42ba7da4aa0a727ef04e39fb6e52",
+      "size": 27136640,
+      "sig": "f2862f7f66e6d0a1bc090c8ba90590113267ab6f3661f2c4e42656d21d16a0254e7a73f82f8687aaf2effb90f16727eda3ce11523adfe84a26c3deb00b744d00"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "729e41af64df3f4a0ac4f8dcef27cf11a0d1a04ab7797d586ad04f01ff9c9792",
-      "size": 39045915,
-      "sig": "a3bdcc85e8ed0ce1a93c6f3c0031dc9ff892103d42677888dc99a1499c5ce986bab270a538d9ce3052e0d7faf4748dc73af865012ebada29a2531b02395a2309"
+      "sha256": "94526e79dad04e339289eab288704a05727ae1bb1156beed3f67d07f218edad5",
+      "size": 39085351,
+      "sig": "e90d2b57c7ad525bd29677272ddb6bdff9ac6a1318e5777c60e60ef7cd014d34a3cccee1baa1c2409a0f263ca88d4fd23b01f6b9db9c23c545a149884637910a"
     }
   }
 }
