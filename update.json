@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.45",
+  "version": "4.9.46",
   "date": "2026-11-01",
-  "notes": "Biblioteca ▸ Rede elétrica: símbolos IEC (Europa) e ABNT (Brasil), cada um com propriedades (designação, circuito, potência, tensão, fases, quantidade, altura, comando, nota) e etiqueta. Textos e etiquetas seguem o zoom, editam-se e apagam-se nas Propriedades e ficam com caixa quando escolhidos. Colar segue o rato com linha de movimento tracejada. Bloqueio dos eixos X/Y também no desenho, no mover e no colar. Layer nas Propriedades por grupos, como no painel Layers. Layouts: 'Sem escala' e 'Mostrar o nome'/'Mostrar a escala' em separado.",
-  "notesEn": "Library ▸ Electrical: IEC (Europe) and ABNT (Brazil) symbols, each with properties (designation, circuit, power, voltage, phases, quantity, height, control, note) and a label. Texts and labels follow the zoom, are edited and deleted in Properties and get a box when selected. Paste follows the mouse with a dashed move line. X/Y axis lock also for drawing, moving and pasting. Layer in Properties grouped like the Layers panel. Layouts: 'No scale' and separate 'Show name'/'Show scale'.",
+  "notes": "Atualizações sozinhas: ao abrir, a app procura uma versão nova e, se houver, descarrega, confirma a assinatura, fecha, instala e volta a abrir (Windows e Mac). O projeto fica guardado na sessão e volta a abrir. Desliga-se em Ajuda ▸ Atualizações. Janela das Scenes também nos Layouts (botão Scenes… e '…' ao lado da Scene da vista).",
+  "notesEn": "Self-updating: on start the app looks for a new version and, if there is one, downloads it, checks the signature, closes, installs and reopens (Windows and Mac). The project stays in the session and reopens. Turn off in Help ▸ Updates. Scenes window in Layouts too (Scenes… button and '…' next to the view's Scene).",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "7d481234322057862d49002a4f7b853776b98ea4ea2e8b8f783823b32e343819",
-      "size": 27242636,
-      "sig": "e03d9e97c77ff09c2556473bbe11c4ca3aaa071a2a0a575297894da77395e3affda86540d189a9271389287c0fa833a2bd5ca3d90467b8316f1923ba6a469e0a"
+      "sha256": "e020251b86a163973aceb5645e3ceb154c5f406638ace3ebba91012037a9f455",
+      "size": 27246775,
+      "sig": "9214b0fcd6c52a54546c9382f595e9ac85420f7469e9106e5bf6364b588249dd75972a95580c3e8484c8d111316f00d0c7c6a94ac57a60323c26271a11da5409"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "d9ca09482bc356265b24e6cd711f1af5ec02198b42e2eadc0b2ff57de1c814ee",
-      "size": 39262028,
-      "sig": "cba4cb6aae09c1761c1d1df1c5f9c3c0d95f3e0bb05db51a744e198a87d655f4f0be78e12e137d9e8254d4b7a94d87ea7be7d1a0e196a5b60687693da3fcd906"
+      "sha256": "381f9ca0870ace02bc2d9df20b7ce3305b715734d6f21a4cdafe242cf8f4444d",
+      "size": 39288384,
+      "sig": "7fbdeab373c5b80a9659c65b9e06aad9e50560e5a62f6e159f46ec691af64b09995946db1248f498fc8ae0ec1c4a0a9363ace6396ba5e2ad74972ab45c522306"
     }
   }
 }
