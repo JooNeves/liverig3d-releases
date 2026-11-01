@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.43",
+  "version": "4.9.44",
   "date": "2026-11-01",
-  "notes": "Layouts: estilo da vista com 3 opções — Como no CAD (cores dos layers; linhas quase brancas saem a preto na folha), Sombreado e Traço. Scenes: clicar na caixa de um grupo de layers já não fecha a app.",
-  "notesEn": "Layouts: view style with 3 options — As in CAD (layer colours; near-white lines print black on the sheet), Shaded and Line art. Scenes: clicking a layer group's checkbox no longer closes the app.",
+  "notes": "Cotas e Medir em todas as vistas, com encaixe em 3D (pontas, meios, interseções a qualquer altura), tipos (alinhada, planta, X, Y, Z) e propriedades (pontos, texto, unidades, pontas, cor). Layouts: grelha com tamanho à escolha; textos do desenho importado à escala da vista. Scenes: só os nomes e a Vista geral. Textos importados escolhem-se clicando nas letras. Ficheiro ▸ Gravar numerado. Cinzentos na janela de cores; o branco sai a preto na impressão.",
+  "notesEn": "Dimensions and Measure in every view with 3D snapping (ends, mids, intersections at any height), types (aligned, plan, X, Y, Z) and properties (points, text, units, ends, colour). Layouts: grid with a chosen size; imported drawing texts at the view scale. Scenes: names only plus the Overview. Imported texts are picked by clicking the letters. File ▸ Save numbered. Greys in the colour picker; white prints black.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "8bfeb1e686b4be87a15ebd8b3afa14c4a77934409a91ecddcf721c85cf8125a3",
-      "size": 27138394,
-      "sig": "25c58a1e1a5defee07f345f681fd05cbcf542ca49f7a262134bc4e4c37c5c3b4958984d9e6079f7fc5f807dd33ef95634e010e83987ba58156b6efde61b46b09"
+      "sha256": "51d0350815aaa864b9fedb1a8d744f4c39524e72eab0881d4555b9721de20866",
+      "size": 27179448,
+      "sig": "3414bf688bf64684785492f17ef8ddc35db85c99e1f8690fac4353836bd3cbbbb72649951f03ac40538d134c349742dd60130180f556c62da71323edca7c4700"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "adcb225438c8a3794b55a47d0af69ccd3a3107c6815afca8f4836f161598e8a8",
-      "size": 39085038,
-      "sig": "3e4aec43e787cc86418b65b1afbecff58598e76b4243759cac7363537c631f83a56f64beb9ab20bfeda71ea1abb90e7f5ee966a68dfc150d4ce3edf1daf14206"
+      "sha256": "22c797e42c01132db1d6366c7251b1728ffb41b3bd1827f08936a689758a673d",
+      "size": 39156299,
+      "sig": "3b5a7c160dbb24b263a1da758c8233ea54b040347391cdc606bc1567e2ebe043359a9e32fc82287a8b63ac4f842902422a86b1dc10f5c2723001bc7697636b06"
     }
   }
 }
