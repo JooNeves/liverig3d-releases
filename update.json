@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.51",
+  "version": "4.9.52",
   "date": "2026-11-01",
-  "notes": "Formatação dos textos (letra, negrito, itálico, sublinhado, alinhamento); legenda da rede elétrica nos Layouts; quadros geral/parcial/secundário e símbolos acertados pela folha IEC 60617.",
-  "notesEn": "Text formatting (font, bold, italic, underline, alignment); electrical legend in Layouts; main/sub/secondary boards and symbols corrected from the IEC 60617 sheet.",
+  "notes": "Fichas CEE mono e trifásicas 16/32/63/125 A (trocam-se nas Propriedades); vários símbolos editados de uma vez; nome dos sólidos pode ser escondido.",
+  "notesEn": "CEE single/three-phase plugs 16/32/63/125 A (changed in Properties); several symbols edited at once; solid names can be hidden.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "42b66e85fc4542d5317ab8f580aad2a00cb0bbd15d41b4bcc224c21948feea62",
-      "size": 27288823,
-      "sig": "24c6706cb88ee0321e774e7f255152941239fc6582113e765f5ef3e5dbb198925a196492c050623a293c5e9e01e1cbb64b1097359d486fe347b87ef202fc1d0f"
+      "sha256": "ba4fb6715c475a6a8697b038789c0b0c171f12aa2b53022afe7f4d17361bce30",
+      "size": 27300417,
+      "sig": "f4f30848693ada5fef5acdee4df8d9b70fa3c35faf99fbbb2f8829f1dcc76852f9c982f22a07449d7240c17ae02e7e8f50919cf966f065ef0b9b573a5f3f5000"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "9843a2d4e5aeb020a99bd4d75cb78370c5fe5068001e95731a1882ac060c5253",
-      "size": 39377707,
-      "sig": "9812b633f5824d94e6dbd91bb27eea40e7b5210c7494a374eb0f3873d0a1814f085284bd0f76567463b7f3d9da37870ab7e916d1b945fe2473f9ba3532d9ff0b"
+      "sha256": "634d1b614b6bf44d80b6161b5bc2cd98e1407da53cd6611584522006e33e0c70",
+      "size": 39406399,
+      "sig": "3c4bbedacc3bfb7e5bbfd8bd116aeb07adff2f69af282f960eb62b946a2b733e8f7a5a10a4b893ca21ae27947233f585bd8bb41f02cc270bc5a9e9b249ed6e02"
     }
   }
 }
