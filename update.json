@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.55",
+  "version": "4.9.56",
   "date": "2026-11-01",
-  "notes": "Cabos elétricos só a 90° (cotovelos automáticos); arrastar um troço do cabo para o lado sem perder as ligações; a designação dos quadros segue a rotação do quadro.",
-  "notesEn": "Electrical cables at 90° only (automatic elbows); drag a cable segment sideways without losing its connections; board designations follow the board's rotation.",
+  "notes": "Legenda da rede elétrica editável nos Layouts (título, mostrar, ordem e nome de cada símbolo); linhas de 0,1 mm nas folhas e nos PDF (sem borrões). Inclui a 4.9.55: cabos a 90° e arrastar troços; designação dos quadros com a rotação.",
+  "notesEn": "Editable electrical legend in Layouts (title, show, order and name of each symbol); 0.1 mm lines on sheets and PDFs (no blots). Includes 4.9.55: 90° cables and segment dragging; board designations follow rotation.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "2ae4481b6eb0501ac7ae9088f6b1da552cd79137bbaaad0549a3782d8da226bf",
-      "size": 27325444,
-      "sig": "a8b4cfa1a59e9e54af3bf230265931d530a4d6b3d2d03379d7dd62f0b36b0121dac40d2e75cabab8c3e57736218c97c9b4bd342d4c9814d34b5b581127ae9f09"
+      "sha256": "afd9e7743d6a55da75934c02cc62556f53d5140eb95d28ceb7bd9e8c40f93c79",
+      "size": 27343552,
+      "sig": "0778a833b326e9d1a3485b47e045bd69352ec451e40865243629cbe544ee3ad056bb8d801c5475527ada5718d7f60d8e85febacaa9362bb6638b8bbe07fe9e09"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "45c41e3e747420b9871f4fa6fa8ce24f8e78a58f7d8551f34359eb7b5da8995a",
-      "size": 39445132,
-      "sig": "41ca4132a6f3304071cdf789b23bc137f3475453b1ceadf73d62ccf623695f7cccec6dbb123f2ccaff446e9341000bf611ce0cc35b9605fadaf903ad3cc4ea02"
+      "sha256": "0680576d1cb0071eade88584e95397a4d663dbf2ee43df827576aeeff781d6b8",
+      "size": 39496341,
+      "sig": "1db547b88da44a9b5cdc0de33011d4999ca7cb2c1e718354788890c5497c1fdfe842c022c445c891c4eade23e7c12835fa2f4230f5ee767cceeacf5fd6976c0e"
     }
   }
 }
