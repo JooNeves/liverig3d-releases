@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.48",
+  "version": "4.9.49",
   "date": "2026-11-01",
-  "notes": "Textos e etiquetas em várias linhas (Enter = linha nova nas Propriedades e na ferramenta Texto; etiquetas elétricas com 'Uma informação por linha'). O retângulo desenhado é um objeto: largura e altura nas Propriedades, 'Separar em linhas'. Corrigido: um bloco copiado já não mostra 'Rede elétrica'; o símbolo elétrico copiado leva as suas propriedades.",
-  "notesEn": "Multi-line texts and labels (Enter = new line in Properties and the Text tool; electrical labels with 'One item per line'). The drawn rectangle is one object: width and height in Properties, 'Split into lines'. Fixed: a copied block no longer shows 'Electrical'; a copied electrical symbol keeps its properties.",
+  "notes": "10 símbolos IEC 60617 que faltavam na Rede elétrica; sólidos em arame com o Sombreado desligado.",
+  "notesEn": "10 missing IEC 60617 symbols in Electrical; solids as wireframe when Shaded is off.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "31f61b63cc5733a0bb0135c3f76540792fe785941c7eb7cface4a85b6b062f48",
-      "size": 27265811,
-      "sig": "69b4b4ef8b45023432a0bb27b19c83ecd889fe3566225e588e3892d4cfd73ac300d087e4872bf9d2e6023e5b83f511285b5d25eaac042fc28b67d96debdff50e"
+      "sha256": "f50a5fcec37da88ba3873c6b6e775dbaf56e69cf73748aa32fa0f3ff20573220",
+      "size": 27268786,
+      "sig": "2e8ef94f528208e8da8b19f24c8057b838a37d1d91f6841fa4d8a5c1c3c23d9cc012bc1b8c378b301dd392fdeacc551c123b891a0e56765dec311665b7fca904"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "c270a1ed125d9324ab7b1e8936d146bd114def4fb137ce7e66db56c26c6d0fbc",
-      "size": 39329905,
-      "sig": "f82174f4ce9caf1dab243528d2367a069b2e484ac5d17f420b8e2f74398f0b996af1107c2a725719820223ec186a4ac142c4c213de60ad9501da28d6251c460c"
+      "sha256": "daf11455a666e76f2e6f85155bd813e40117d318ccc3dbf51e7c9a8c9abacf66",
+      "size": 39333652,
+      "sig": "75216ea07bd41725efeb9a0fb1606da80c762261fcf2eae581eeb5a8bbfdf479e5ffceaabe25396d65f8609b90bf5917b1330700467ee701aad3b535d2e6230b"
     }
   }
 }
