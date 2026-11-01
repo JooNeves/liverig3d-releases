@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.54",
+  "version": "4.9.55",
   "date": "2026-11-01",
-  "notes": "Cabo elétrico na Rede elétrica: desenha-se o percurso do quadro ao símbolo e nas Propriedades ficam o tipo, os condutores e a secção, o circuito, de/para.",
-  "notesEn": "Electrical cable in Electrical: draw the route from the board to the symbol; Properties hold type, cores and cross-section, circuit, from/to.",
+  "notes": "Cabos elétricos só a 90° (cotovelos automáticos); arrastar um troço do cabo para o lado sem perder as ligações; a designação dos quadros segue a rotação do quadro.",
+  "notesEn": "Electrical cables at 90° only (automatic elbows); drag a cable segment sideways without losing its connections; board designations follow the board's rotation.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "c9b86e8cd269e06ab0520f11f2b4f505161a54fbf20bf74eb649d2efea2e0168",
-      "size": 27317555,
-      "sig": "c9d43924f076dade05b0ab8c0704b810b68d9798946cd62a6379bc9221d4a70a669c37d7b9a7d6a27ffeae5d699c6e563fd208dd31263a5db10580f36a40b60f"
+      "sha256": "2ae4481b6eb0501ac7ae9088f6b1da552cd79137bbaaad0549a3782d8da226bf",
+      "size": 27325444,
+      "sig": "a8b4cfa1a59e9e54af3bf230265931d530a4d6b3d2d03379d7dd62f0b36b0121dac40d2e75cabab8c3e57736218c97c9b4bd342d4c9814d34b5b581127ae9f09"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "48393b234fd4055da7261a400b823c98d0ea72bd1a6c604a01d6c728a639c26a",
-      "size": 39439827,
-      "sig": "c1c76111a04fee7e71a490341d0b2a9d2c7cc4aecded0b7c1998cb3d65eae054a0463121afce9962cdd9f151374a7a2bf454f1f44bc1fb7fa28fd36ab29de706"
+      "sha256": "45c41e3e747420b9871f4fa6fa8ce24f8e78a58f7d8551f34359eb7b5da8995a",
+      "size": 39445132,
+      "sig": "41ca4132a6f3304071cdf789b23bc137f3475453b1ceadf73d62ccf623695f7cccec6dbb123f2ccaff446e9341000bf611ce0cc35b9605fadaf903ad3cc4ea02"
     }
   }
 }
