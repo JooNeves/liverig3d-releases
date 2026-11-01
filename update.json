@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.42",
+  "version": "4.9.43",
   "date": "2026-11-01",
-  "notes": "Gravação automática com o tempo à escolha (Ficheiro ▸ Gravação automática…, de origem 5 minutos; ficam as últimas 20). Ao fechar a app, tudo o que se fez fica gravado e volta assim que a app abrir; se a app for abaixo, abre com o último autosave.",
-  "notesEn": "Autosave with a chosen interval (File ▸ Autosave…, default 5 minutes; the last 20 are kept). On close, everything done is saved and comes back when the app opens; after a crash the app opens with the last autosave.",
+  "notes": "Layouts: estilo da vista com 3 opções — Como no CAD (cores dos layers; linhas quase brancas saem a preto na folha), Sombreado e Traço. Scenes: clicar na caixa de um grupo de layers já não fecha a app.",
+  "notesEn": "Layouts: view style with 3 options — As in CAD (layer colours; near-white lines print black on the sheet), Shaded and Line art. Scenes: clicking a layer group's checkbox no longer closes the app.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "7b932442b5e09ea4b0273a8a52c4092b7fac42ba7da4aa0a727ef04e39fb6e52",
-      "size": 27136640,
-      "sig": "f2862f7f66e6d0a1bc090c8ba90590113267ab6f3661f2c4e42656d21d16a0254e7a73f82f8687aaf2effb90f16727eda3ce11523adfe84a26c3deb00b744d00"
+      "sha256": "8bfeb1e686b4be87a15ebd8b3afa14c4a77934409a91ecddcf721c85cf8125a3",
+      "size": 27138394,
+      "sig": "25c58a1e1a5defee07f345f681fd05cbcf542ca49f7a262134bc4e4c37c5c3b4958984d9e6079f7fc5f807dd33ef95634e010e83987ba58156b6efde61b46b09"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "94526e79dad04e339289eab288704a05727ae1bb1156beed3f67d07f218edad5",
-      "size": 39085351,
-      "sig": "e90d2b57c7ad525bd29677272ddb6bdff9ac6a1318e5777c60e60ef7cd014d34a3cccee1baa1c2409a0f263ca88d4fd23b01f6b9db9c23c545a149884637910a"
+      "sha256": "adcb225438c8a3794b55a47d0af69ccd3a3107c6815afca8f4836f161598e8a8",
+      "size": 39085038,
+      "sig": "3e4aec43e787cc86418b65b1afbecff58598e76b4243759cac7363537c631f83a56f64beb9ab20bfeda71ea1abb90e7f5ee966a68dfc150d4ce3edf1daf14206"
     }
   }
 }
