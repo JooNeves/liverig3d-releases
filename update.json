@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.46",
+  "version": "4.9.47",
   "date": "2026-11-01",
-  "notes": "Atualizações sozinhas: ao abrir, a app procura uma versão nova e, se houver, descarrega, confirma a assinatura, fecha, instala e volta a abrir (Windows e Mac). O projeto fica guardado na sessão e volta a abrir. Desliga-se em Ajuda ▸ Atualizações. Janela das Scenes também nos Layouts (botão Scenes… e '…' ao lado da Scene da vista).",
-  "notesEn": "Self-updating: on start the app looks for a new version and, if there is one, downloads it, checks the signature, closes, installs and reopens (Windows and Mac). The project stays in the session and reopens. Turn off in Help ▸ Updates. Scenes window in Layouts too (Scenes… button and '…' next to the view's Scene).",
+  "notes": "Símbolos elétricos: depois de escolher o sítio aparece uma linha de rotação com o ângulo; encaixa a 45°, 90°, 135°… e clica para pôr (ou escreve o ângulo e Enter). Esc volta a escolher o sítio.",
+  "notesEn": "Electrical symbols: after picking the spot a rotation line shows the angle; it snaps to 45°, 90°, 135°… and a click places it (or type the angle and Enter). Esc goes back to picking the spot.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "e020251b86a163973aceb5645e3ceb154c5f406638ace3ebba91012037a9f455",
-      "size": 27246775,
-      "sig": "9214b0fcd6c52a54546c9382f595e9ac85420f7469e9106e5bf6364b588249dd75972a95580c3e8484c8d111316f00d0c7c6a94ac57a60323c26271a11da5409"
+      "sha256": "c9fecfa8656fc47f388c314b92e4aadac424f8c9a542b27cd7b8d7c233f895df",
+      "size": 27250035,
+      "sig": "d6922a40f6f7e55db712eec4c15f253cd3e287dcf1807fa31f73db2997a61aeeb474a58b22f508178cd053439981da449ee4910cebad691f32f8a927f840c30a"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "381f9ca0870ace02bc2d9df20b7ce3305b715734d6f21a4cdafe242cf8f4444d",
-      "size": 39288384,
-      "sig": "7fbdeab373c5b80a9659c65b9e06aad9e50560e5a62f6e159f46ec691af64b09995946db1248f498fc8ae0ec1c4a0a9363ace6396ba5e2ad74972ab45c522306"
+      "sha256": "b9455939a414697f876086bf781195179f2292ac26fe1decadb7853fc30f4213",
+      "size": 39279811,
+      "sig": "85f898ac8b5c1af44a7a7e46e913ade43bf01c52cad5a05a28ce3ebbbd9e45b9c7f17e293a00a806aad44512c1489e4562670597017c08369f7b2449d7d8de0e"
     }
   }
 }
