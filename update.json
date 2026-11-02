@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.59",
+  "version": "4.9.60",
   "date": "2026-11-02",
-  "notes": "Ponto de ligação (junção de cabos) na Rede elétrica ▸ Cabos: os cabos agarram-se ao centro e seguem-no. Inclui a 4.9.58: quadros cheios com a designação em várias linhas, pontas do cabo no contorno do símbolo e derivações entre cabos.",
-  "notesEn": "Connection point (cable junction) in Electrical ▸ Cables: cables attach to its centre and follow it. Includes 4.9.58: solid boards with multi-line designation, cable ends on the symbol outline and cable branches.",
+  "notes": "Símbolo Mikei autónomo; legenda elétrica com a cor dos símbolos; PDF dos layouts com círculos redondos, textos pequenos legíveis e cores claras escurecidas na folha.",
+  "notesEn": "Mikei self-contained symbol; electrical legend in the symbols' colours; layout PDFs with round circles, readable small texts and darker light colours on the sheet.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "7433cd2f10a5ca05bd7afd7f248328fab92a72dcded27f8a2c34e1d30875206c",
-      "size": 27371694,
-      "sig": "1688883faeaf0cb3cb95d6f89c8094ecfa3a9e1151ea752fd0fc2bd0dc4d79411b4aecc1c5949a20eab68d823eb14348e267c7455eb5865c5cc697a2aa8e3107"
+      "sha256": "17afb56be4e7c4178f172cfc804ef35896f40148944928fb7b9b66e9fecd75e0",
+      "size": 27375349,
+      "sig": "2533f031d8e28b9647a1e7794a8bf46a0c9606fd87f267e03820f057f3f789f385302642bc6a68ff470a136312b904de77e04dd2b617cf654fc57afcbbee0b07"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "202a1e924865c8fc50a065e1a35c2b3e67e4ee73f294f9878ac135dbaf551204",
-      "size": 39555095,
-      "sig": "da18368a7bd7f86788edf9c16fb0701bb31b0ef8a561cbb4e5307ae88d512892c97b0f1f53f27b31b021afe2ed69c73bd4354c5448fd98acc3148c51f6755d01"
+      "sha256": "ef0dcdbd60a7c1d1a0e9c4b68ccb9f478b6cac63f6c7f8311b2a6febf754959d",
+      "size": 39546936,
+      "sig": "436ba97b4dcc96e8fe361cf7f98e174f4b5ee30b0f97d326a9913d67cb7c528b6208ee2e19843ac2e799a1c4b7d459a35d636d041d76ed0cb46f2216268f4c0f"
     }
   }
 }
