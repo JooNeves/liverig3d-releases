@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.58",
-  "date": "2026-11-01",
-  "notes": "Quadros com enchimento cheio (sem riscas) e a designação em várias linhas, centrada dentro do quadro; a ponta do cabo agarra ao contorno do símbolo; cabos que acabam noutro cabo criam um ponto de derivação e seguem-no.",
-  "notesEn": "Boards with solid fill (no stripes) and a multi-line designation centred inside; cable ends attach to the symbol outline; cables ending on another cable create a branch point and follow it.",
+  "version": "4.9.59",
+  "date": "2026-11-02",
+  "notes": "Ponto de ligação (junção de cabos) na Rede elétrica ▸ Cabos: os cabos agarram-se ao centro e seguem-no. Inclui a 4.9.58: quadros cheios com a designação em várias linhas, pontas do cabo no contorno do símbolo e derivações entre cabos.",
+  "notesEn": "Connection point (cable junction) in Electrical ▸ Cables: cables attach to its centre and follow it. Includes 4.9.58: solid boards with multi-line designation, cable ends on the symbol outline and cable branches.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "cf4f5420ee871e3216dc066c7c35d6abb78da36ee3ccef1838b8a6f507a43364",
-      "size": 27370354,
-      "sig": "3856f86b1588aee6da3454f3228057a9b12689b8c28cd8e7e750b2c3eb025a75251265c8b8cf399c28cb6e6a476bedfc0747a7e1fa904ccec4cb26563057ef04"
+      "sha256": "7433cd2f10a5ca05bd7afd7f248328fab92a72dcded27f8a2c34e1d30875206c",
+      "size": 27371694,
+      "sig": "1688883faeaf0cb3cb95d6f89c8094ecfa3a9e1151ea752fd0fc2bd0dc4d79411b4aecc1c5949a20eab68d823eb14348e267c7455eb5865c5cc697a2aa8e3107"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "198857100f32bc9d117ac2f19f421cbca1cd760efe470c409eed88cd121bdd74",
-      "size": 39553520,
-      "sig": "13e265481c142fc8550500ce214900a6f08bd88daa582a9525718b6b3e727e5a783c8252ed84cea216fb9f4e35fc4d6aa3e4a72a2adde9eb7db13497cbcc6e0e"
+      "sha256": "202a1e924865c8fc50a065e1a35c2b3e67e4ee73f294f9878ac135dbaf551204",
+      "size": 39555095,
+      "sig": "da18368a7bd7f86788edf9c16fb0701bb31b0ef8a561cbb4e5307ae88d512892c97b0f1f53f27b31b021afe2ed69c73bd4354c5448fd98acc3148c51f6755d01"
     }
   }
 }
