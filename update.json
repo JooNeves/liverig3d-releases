@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.60",
+  "version": "4.9.61",
   "date": "2026-11-02",
-  "notes": "Símbolo Mikei autónomo; legenda elétrica com a cor dos símbolos; PDF dos layouts com círculos redondos, textos pequenos legíveis e cores claras escurecidas na folha.",
-  "notesEn": "Mikei self-contained symbol; electrical legend in the symbols' colours; layout PDFs with round circles, readable small texts and darker light colours on the sheet.",
+  "notes": "Power: biblioteca de distros, comandos de motores e cablagem; Dados ▸ Power com polvos socapex, fases equilibradas, comandos de motores, cabos a 90° e relatório PDF.",
+  "notesEn": "Power: distro, hoist controller and cabling library; Data ▸ Power with socapex breakouts, balanced phases, hoist controllers, 90° cable runs and a PDF report.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "17afb56be4e7c4178f172cfc804ef35896f40148944928fb7b9b66e9fecd75e0",
-      "size": 27375349,
-      "sig": "2533f031d8e28b9647a1e7794a8bf46a0c9606fd87f267e03820f057f3f789f385302642bc6a68ff470a136312b904de77e04dd2b617cf654fc57afcbbee0b07"
+      "sha256": "27955dbc9b144af69c46fef182ca16caef591d00d838748e3563aea78fa1f21e",
+      "size": 27545058,
+      "sig": "4357ad00cbca415d013dc96ad5a4ff51ef5ab055c0d3754f32c35e78bc4084333da166324b37ea57a132e30720a0d0f6e3916f01a58b8efb43c0407300969100"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "ef0dcdbd60a7c1d1a0e9c4b68ccb9f478b6cac63f6c7f8311b2a6febf754959d",
-      "size": 39546936,
-      "sig": "436ba97b4dcc96e8fe361cf7f98e174f4b5ee30b0f97d326a9913d67cb7c528b6208ee2e19843ac2e799a1c4b7d459a35d636d041d76ed0cb46f2216268f4c0f"
+      "sha256": "a0b1e33980b9ccab223995243d7a4949a59fcc44b4239a4f11eafd2dc62dafcb",
+      "size": 39855930,
+      "sig": "55bea8d88c4024453ab3ffe1291b4530db625bcc12edee2ea2218fc2037beb01ddd12dd6fb577ec8604afbf1a7f80e2259995ca0d90e4a6809528d463b44f103"
     }
   }
 }
