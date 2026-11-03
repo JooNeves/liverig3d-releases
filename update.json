@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.61",
-  "date": "2026-11-02",
-  "notes": "Power: biblioteca de distros, comandos de motores e cablagem; Dados ▸ Power com polvos socapex, fases equilibradas, comandos de motores, cabos a 90° e relatório PDF.",
-  "notesEn": "Power: distro, hoist controller and cabling library; Data ▸ Power with socapex breakouts, balanced phases, hoist controllers, 90° cable runs and a PDF report.",
+  "version": "4.9.62",
+  "date": "2026-11-03",
+  "notes": "Power: relatório PDF dos aparelhos com a formatação do de Alfragide e um relatório à parte de power e sinal dos motores.",
+  "notesEn": "Power: fixture PDF report laid out like the Alfragide sheet, and a separate hoist power and signal report.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "27955dbc9b144af69c46fef182ca16caef591d00d838748e3563aea78fa1f21e",
-      "size": 27545058,
-      "sig": "4357ad00cbca415d013dc96ad5a4ff51ef5ab055c0d3754f32c35e78bc4084333da166324b37ea57a132e30720a0d0f6e3916f01a58b8efb43c0407300969100"
+      "sha256": "7a3439f53a38fdc9283ff088a650c1d9c8363ed60cd7a7406dc3eab9aae5fd8f",
+      "size": 27557705,
+      "sig": "afca3755db5b4ac1bedbf8b2e08af056f25f39db05219669c63e3c19589dc64fcb05c7ed111a8e9abbacfdbbd5a31343e0886c74eb041c3b53190493fd115407"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "a0b1e33980b9ccab223995243d7a4949a59fcc44b4239a4f11eafd2dc62dafcb",
-      "size": 39855930,
-      "sig": "55bea8d88c4024453ab3ffe1291b4530db625bcc12edee2ea2218fc2037beb01ddd12dd6fb577ec8604afbf1a7f80e2259995ca0d90e4a6809528d463b44f103"
+      "sha256": "f4f2dda7b6617f8e83281088b9b8566d6cd9f019b5768888c0d19bb534b9638d",
+      "size": 39892251,
+      "sig": "7b7d7b0f09221fb14abf04313b19a287d4b90d829c56420a44b51fc6616d5e2d656b7f6d0f46ce6c802a177de09d671edb559518ca774ba70de66f5090ab330d"
     }
   }
 }
