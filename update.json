@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.62",
-  "date": "2026-11-03",
-  "notes": "Power: relatório PDF dos aparelhos com a formatação do de Alfragide e um relatório à parte de power e sinal dos motores.",
-  "notesEn": "Power: fixture PDF report laid out like the Alfragide sheet, and a separate hoist power and signal report.",
+  "version": "4.9.63",
+  "date": "2026-11-06",
+  "notes": "Bridle a partir do motor (clica no motor, depois nos pre-rigs/vigas/truss; botão direito termina) e pontas/vértice que se arrastam; motor invertido por cima do truss; Fixture ID e power thru; stock pela biblioteca/GDTF; colunas dos Layouts ajustáveis; a app aberta do pacote descarregado instala-se sozinha.",
+  "notesEn": "Bridle from a hoist (click the hoist, then the pre-rigs/beams/trusses; right-click finishes) with draggable anchors/apex; inverted hoist above the truss; fixture ID and power thru; stock from the library/GDTF; resizable Layouts columns; the app opened from the downloaded package installs itself.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "7a3439f53a38fdc9283ff088a650c1d9c8363ed60cd7a7406dc3eab9aae5fd8f",
-      "size": 27557705,
-      "sig": "afca3755db5b4ac1bedbf8b2e08af056f25f39db05219669c63e3c19589dc64fcb05c7ed111a8e9abbacfdbbd5a31343e0886c74eb041c3b53190493fd115407"
+      "sha256": "ccebad86dd1e2a16fff854b3da074312e212e653b03926a4ff6aeb6e2335e792",
+      "size": 27601847,
+      "sig": "55632002276fdeec4f0cc7a5f5054cd4185b93999d6a0f9025bd9355f50370a868ede6b95e656869645026029b3b7472ad0529f2abd1221fd88f721798b9f60f"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "f4f2dda7b6617f8e83281088b9b8566d6cd9f019b5768888c0d19bb534b9638d",
-      "size": 39892251,
-      "sig": "7b7d7b0f09221fb14abf04313b19a287d4b90d829c56420a44b51fc6616d5e2d656b7f6d0f46ce6c802a177de09d671edb559518ca774ba70de66f5090ab330d"
+      "sha256": "2c8179492073d34f27346db66ffd771b3e3cb2c3ff360083e27338db14eb2e26",
+      "size": 39959793,
+      "sig": "6a7c96ef3f3bd8564ff0b0926fa7b120f771271c9c759db2ef19d55ae468b3d03ba3cd9e12a8eae0da97ddf12f0378247dca3027585f6be72ecc37e835c7ac02"
     }
   }
 }
