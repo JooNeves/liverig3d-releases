@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.63",
-  "date": "2026-11-06",
-  "notes": "Bridle a partir do motor (clica no motor, depois nos pre-rigs/vigas/truss; botão direito termina) e pontas/vértice que se arrastam; motor invertido por cima do truss; Fixture ID e power thru; stock pela biblioteca/GDTF; colunas dos Layouts ajustáveis; a app aberta do pacote descarregado instala-se sozinha.",
-  "notesEn": "Bridle from a hoist (click the hoist, then the pre-rigs/beams/trusses; right-click finishes) with draggable anchors/apex; inverted hoist above the truss; fixture ID and power thru; stock from the library/GDTF; resizable Layouts columns; the app opened from the downloaded package installs itself.",
+  "version": "4.9.70",
+  "date": "2026-11-08",
+  "notes": "PDF dos Layouts mais leves e com boa qualidade; legendas com quantidade, nome e scene editáveis; ler STEP/IGES também no Mac. Chave de assinatura nova: esta versão instala-se à mão uma vez (depois volta a atualizar-se sozinha).",
+  "notesEn": "Lighter, high-quality Layout PDFs; legends with editable quantity, name and scene; STEP/IGES import on the Mac too. New signing key: install this version by hand once (it updates itself again afterwards).",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "ccebad86dd1e2a16fff854b3da074312e212e653b03926a4ff6aeb6e2335e792",
-      "size": 27601847,
-      "sig": "55632002276fdeec4f0cc7a5f5054cd4185b93999d6a0f9025bd9355f50370a868ede6b95e656869645026029b3b7472ad0529f2abd1221fd88f721798b9f60f"
+      "sha256": "4625ef1035d509fe21a5cc447ca1c7d501248091033b7faf58c07e3f5585aee3",
+      "size": 47696862,
+      "sig": "6f0cb85b49df4c0271366f2b75a06d349232990f4784fd8afa6005193336ad4b51d799fe38ab805557ba82a6ab14c7660a438ea7a081955105877d6b76294705"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "2c8179492073d34f27346db66ffd771b3e3cb2c3ff360083e27338db14eb2e26",
-      "size": 39959793,
-      "sig": "6a7c96ef3f3bd8564ff0b0926fa7b120f771271c9c759db2ef19d55ae468b3d03ba3cd9e12a8eae0da97ddf12f0378247dca3027585f6be72ecc37e835c7ac02"
+      "sha256": "504c1779eeb64af9a2953d6832f81a187773a5dca47a2031a949c49204fa1d45",
+      "size": 75074380,
+      "sig": "4b923b9df8c8302a55e806b144efff99a14d0054dc9b2e7c0b297083962d120e99377a6049df5aa29042e1c82af33bae0322624b388147817b1fc3393b4a3a03"
     }
   }
 }
