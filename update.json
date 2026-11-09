@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.71",
-  "date": "2026-11-08",
-  "notes": "Importar com uma entrada por tipo (DWG/DXF, modelo 3D, PDF, imagem); etiquetas nas 8 posições e a arrastar; motor invertido com o corpo em cima e a corrente a descer; círculo da rotação da cabeça ao colocar fixtures e aviso quando batem; Live: escolha ligada ao patch, várias linhas com ID/canais/patch seguidos, arrastar fixtures para a grelha do universo.",
-  "notesEn": "Import with one entry per type (DWG/DXF, 3D model, PDF, image); labels in 8 positions and draggable; inverted hoist with the body on top and the chain going down; head-swing circle when placing fixtures and a warning when they hit; Live: selection linked to the patch, several rows with consecutive ID/channels/patch, drag fixtures onto the universe grid.",
+  "version": "4.9.76",
+  "date": "2026-11-09",
+  "notes": "Aparelho pendurado num guincho cinético (clica no guincho com o aparelho escolhido na biblioteca; o peso vai para o ponto do guincho no truss; aviso acima da carga do guincho); Distribuir fixtures com quantidade (cria as cópias, com o que está pendurado); bibliotecas com a carga dos guinchos; aviso de motores sem WLL; 'Sem dados' no truss sem modelo; botões das janelas em português; o Enter na altura de trabalho devolve o teclado à vista; linhas desenhadas visíveis no Sombreado; correção de uma falha no Mac com a acessibilidade.",
+  "notesEn": "Fixture hung under a kinetic winch (click the winch with the fixture chosen in the library; the weight goes to the winch point on the truss; warning above the winch load); Distribute fixtures with a count (creates the copies, with what hangs from them); winch loads in the library; warning for hoists without WLL; 'No data' on a truss without a model; dialog buttons translated; Enter in the working height returns the keyboard to the view; drawn lines visible when shaded; fix for a Mac crash with accessibility.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "9c872dd94bf8e0eadf1bb2bbfed5adebaf76281384cfa19198e4a2373ad01743",
-      "size": 47737378,
-      "sig": "0e9f5dfad4bf74c584c99a027241bd5d1d408131bdf2ab320d04e9d4f18aaccb0c7fb92cba66751d81e5948a59bfb0d9af260da424c4f7a413629ae9d1ff6403"
+      "sha256": "43de083d1503e927fee1640db2153ca8951b4205cf55f4ec32f1a71226fb6726",
+      "size": 47800743,
+      "sig": "6c3bb319dacdd353404b55b3f5b540c918d7834ffc75a1ab7dc5479f7c2e4b6a8a58bd8e840c4980786702ff80c4495dabacba183690a7a46f0daca70d164c04"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "e763a118cd9d2f40c2f2c259ccc3c916161a4c3aebc3cf4d33f0e33edea2df76",
-      "size": 75131412,
-      "sig": "d36ae2fde9b52675b9e1f0c54dab3f2764a229db048fe8c137add2643596a774e288d9d10ed0121943853914228f91327478c785a96ea6095b290cea8c3b490d"
+      "sha256": "4a67da6064ee6d85178200463768207962c52929e8bcd9e1f0dd1dedede24f70",
+      "size": 75238676,
+      "sig": "c3b3fd7855d3437df1047db4daa797b78aed395252aa9fbc2be21878a9f675abf1726b01a446da7f238172f838d752b2f0dd3cbfa86fbe6a3718d248df7c3b02"
     }
   }
 }
