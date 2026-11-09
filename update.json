@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.82",
+  "version": "4.9.83",
   "date": "2026-11-09",
-  "notes": "Guinchos cinéticos sempre por baixo do truss; aparelhos no guincho sem pedir agarra; nome do projeto na lista depois de repor a sessão.",
-  "notesEn": "Kinetic winches always under the truss; winch-hung fixtures no longer ask for a clamp; project name in the list after a restored session.",
+  "notes": "Distribuir aparelhos também à volta de truss curvos; banzo de baixo por omissão com a ferramenta baixo; ângulos sem ruído.",
+  "notesEn": "Distribute fixtures around curved trusses too; bottom chord by default with the below tool; angles without noise.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "4492b7ccb0f3ef9b3a109055e498c4c8ff41ea429c3d65bb0979dd5f743cc21a",
-      "size": 47807331,
-      "sig": "4974a153f9c57ff26fa720bd7200365ced36c2e37374c7d99bd13b433036db8c69dde8f6eee580375806157d24229c031c7af2db0fcc480c663e90bd122d080d"
+      "sha256": "1926c7717ce914540f38b3ec333adf05e431f872fe1a44d57bd5bfd16bc0fab9",
+      "size": 47809063,
+      "sig": "37783ca16b3631233ef18d9ac5d72a61d67568cbbaa220fedfcc6e353d7c5bf3ecbe95a677715291795eef93a8603fe892a1c2c502a1c6291faae265916d4d00"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "9277169c63b8be4316a51f77adb1525d8d5fa3a60aa5a196c4a5d1631fc51966",
-      "size": 75249073,
-      "sig": "7592ef13c0173fb78f58e72e0b85d930446d210ae4373f7f691836400caf0c4d8f9f2581a121f1e9af983a402e856f84d5a5e404c7af1f93a7764ea95b926706"
+      "sha256": "f45139c78c3765fa5c71689e6788d9d1752c7cbb4f2c6f01518a53ab8f05ab3a",
+      "size": 75251362,
+      "sig": "df5d5a757359107f1421dec4017c19a19af28c56d19e20ddc034c0054b14ae13aff3c35d28173925c38d1e98ca17de0adea68f81d8db293b92aff7281a84b502"
     }
   }
 }
