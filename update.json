@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.81",
+  "version": "4.9.82",
   "date": "2026-11-09",
-  "notes": "Mover seleção para este layer leva tudo o que está escolhido (elementos, motores, fixtures). Pendurar no guincho: pré-visualização no guincho.",
-  "notesEn": "Move selection to this layer moves everything selected (elements, hoists, fixtures). Hanging under a winch: preview on the winch.",
+  "notes": "Guinchos cinéticos sempre por baixo do truss; aparelhos no guincho sem pedir agarra; nome do projeto na lista depois de repor a sessão.",
+  "notesEn": "Kinetic winches always under the truss; winch-hung fixtures no longer ask for a clamp; project name in the list after a restored session.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "5ad51305526a5d08e5d8e61f08ea7a63afe6ac95c395b5508b550dc0e1ece4b5",
-      "size": 47806594,
-      "sig": "d08f41797ceb0abe0f2ee4adc072ae5d090773dfaebe7b8caae22a8c66cc3846b11a7077de24b7858b3c11199c02ac6e0678e11acbde342a31b13e041093210e"
+      "sha256": "4492b7ccb0f3ef9b3a109055e498c4c8ff41ea429c3d65bb0979dd5f743cc21a",
+      "size": 47807331,
+      "sig": "4974a153f9c57ff26fa720bd7200365ced36c2e37374c7d99bd13b433036db8c69dde8f6eee580375806157d24229c031c7af2db0fcc480c663e90bd122d080d"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "9e5f408fa22f0191b9579af95cd84ea0f44fc87c40d1d8a7e4185c4e9cfbfe79",
-      "size": 75240113,
-      "sig": "a4f0b918bf29c84633b49bc6302f51a1d9695bd3de5085ad1903bc929743cf761c80cff0417ed7dfb939203c54900b174e38cf113cc2f14b4a80950209476a07"
+      "sha256": "9277169c63b8be4316a51f77adb1525d8d5fa3a60aa5a196c4a5d1631fc51966",
+      "size": 75249073,
+      "sig": "7592ef13c0173fb78f58e72e0b85d930446d210ae4373f7f691836400caf0c4d8f9f2581a121f1e9af983a402e856f84d5a5e404c7af1f93a7764ea95b926706"
     }
   }
 }
