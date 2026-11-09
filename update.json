@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.76",
+  "version": "4.9.77",
   "date": "2026-11-09",
-  "notes": "Aparelho pendurado num guincho cinético (clica no guincho com o aparelho escolhido na biblioteca; o peso vai para o ponto do guincho no truss; aviso acima da carga do guincho); Distribuir fixtures com quantidade (cria as cópias, com o que está pendurado); bibliotecas com a carga dos guinchos; aviso de motores sem WLL; 'Sem dados' no truss sem modelo; botões das janelas em português; o Enter na altura de trabalho devolve o teclado à vista; linhas desenhadas visíveis no Sombreado; correção de uma falha no Mac com a acessibilidade.",
-  "notesEn": "Fixture hung under a kinetic winch (click the winch with the fixture chosen in the library; the weight goes to the winch point on the truss; warning above the winch load); Distribute fixtures with a count (creates the copies, with what hangs from them); winch loads in the library; warning for hoists without WLL; 'No data' on a truss without a model; dialog buttons translated; Enter in the working height returns the keyboard to the view; drawn lines visible when shaded; fix for a Mac crash with accessibility.",
+  "notes": "Licença: no Mac o código do computador já não muda com a rede, por isso as atualizações deixam de pedir a licença outra vez (as licenças ativadas continuam válidas). Inclui tudo da 4.9.76: aparelho pendurado num guincho cinético, Distribuir com quantidade, avisos de guinchos e de motores sem WLL, botões em português.",
+  "notesEn": "Licence: on the Mac the computer code no longer changes with the network, so updates stop asking for the licence again (activated licences stay valid). Includes all of 4.9.76: fixture hung under a kinetic winch, Distribute with a count, winch and no-WLL hoist warnings, translated buttons.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "43de083d1503e927fee1640db2153ca8951b4205cf55f4ec32f1a71226fb6726",
-      "size": 47800743,
-      "sig": "6c3bb319dacdd353404b55b3f5b540c918d7834ffc75a1ab7dc5479f7c2e4b6a8a58bd8e840c4980786702ff80c4495dabacba183690a7a46f0daca70d164c04"
+      "sha256": "6fd603dec34fda05beb7c5dbe44bd2e461aa03d1d984a4633cd5abae615e8c29",
+      "size": 47801929,
+      "sig": "b4b365efe8dd3b7a6080261d152be96499ab758767d87b3466de18d21902210537de8bfb34d6a170b01115e3dde740fc3b8f2849a6d27151bb36dd39eec62e0d"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "4a67da6064ee6d85178200463768207962c52929e8bcd9e1f0dd1dedede24f70",
-      "size": 75238676,
-      "sig": "c3b3fd7855d3437df1047db4daa797b78aed395252aa9fbc2be21878a9f675abf1726b01a446da7f238172f838d752b2f0dd3cbfa86fbe6a3718d248df7c3b02"
+      "sha256": "c0d37b2696f4558fa7e56c24c4ce8221f60349e02db3bcdab861d20debd9ea73",
+      "size": 75239957,
+      "sig": "fc1594dcf0057e2f343d125b5a08f9933f359ac8e4e7fd318c86202a18e02dbb9f87d9d763a871e4262d8504a42b4ff3aa2c528179cfd9df9530d0175bb79b0e"
     }
   }
 }
