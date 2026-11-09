@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.85",
+  "version": "4.9.86",
   "date": "2026-11-09",
-  "notes": "Efeitos (chamas, faíscas, confetis) no chão; marca/modelo para vários motores; legenda do Rigging fixa; GDTF com GeometryReference (ex. Robin WTF) dão luz; nomes sem mudança de linha; PDF das folhas mais leves.",
-  "notesEn": "Effects (flames, sparks, confetti) on the floor; make/model for several hoists; fixed Rigging legend; GDTF with GeometryReference (e.g. Robin WTF) give light; names without line breaks; lighter sheet PDFs.",
+  "notes": "Imagens enquadradas; Rigging com muitas cargas legível; opacidade dos sólidos; lista do Projeto; Avisos fora da Simulação; efeitos no ponto escrito; ponto decimal; desfazer até 150 passos (memória).",
+  "notesEn": "Framed images; readable Rigging with many loads; solid opacity; Project list fix; Warnings hidden in Simulation; effects at the typed point; decimal point; undo up to 150 steps (memory).",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "da1a7f77e7b45688b9f9ea9531605af2a531ab704344e4c9487148514c8c4031",
-      "size": 47817967,
-      "sig": "3c6bc7498633ba63b106760e1cbc738e7e79157e95a5d1ed5db1f9ea3a1dcfc1e184d66d05f3e23ef0f6b36fc776406a70e34206e0ba6750fe4a98a58415aa05"
+      "sha256": "40299dc33123dc7ddd5e7b1c962584311143e8e5ef898349ddce402ff18447b9",
+      "size": 47824249,
+      "sig": "4d1d6d7d3ab60ca3d6f72188dc88591693f96c0330ece698518ae106a2ba985a08e458a9af8b2d1fee8c14ebca25fd051491111b22570260cfa8f7f44c0b200b"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "794de8c984f0765ae938fc913fb9800e18ce52debee4997cc27f4a3d730ebc96",
-      "size": 75274361,
-      "sig": "4006fca0214ed25fa6774b85f6b296f1459c5dbb69dbf847123c08870618a5a4e116e37dc1f5f989d156ceb4c28398d080dab8cf39aad630310a8c9138f96007"
+      "sha256": "8f8edfe9c84b6b42ffc68047428feb193b4825415e07776bfb8285849981f534",
+      "size": 75282686,
+      "sig": "b65a15eacc0be423676812aa7b5edb91aaf3bbfa8fd090759a08908e4165446128c541e7cb658e0850673a4e192a86a8195f036017771b698eb36dd0cff14e0e"
     }
   }
 }
