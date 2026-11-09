@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.78",
+  "version": "4.9.79",
   "date": "2026-11-09",
-  "notes": "Zoom com o trackpad no Mac passa a ser na ponta do cursor.",
-  "notesEn": "Trackpad pinch zoom on the Mac now zooms at the cursor.",
+  "notes": "Mac: corrigido o fecho da app num clique com ferramentas de acessibilidade ligadas (listas e tabelas). Zoom com o trackpad na ponta do cursor.",
+  "notesEn": "Mac: fixed the app closing on a click while accessibility tools are connected (lists and tables). Trackpad pinch zoom at the cursor.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "9db0a6588180dc7a86c64368b90bbe09620aafa8f6e54609607e3c9e9473d339",
-      "size": 47801810,
-      "sig": "e5aeae47a4e84d3d831684277f7f12022c2ca05adca646ae1a6631894d49844cedd26c3e39c22bd626d9ed74900aec92d9dbcf54f2b120737796822d53f06c00"
+      "sha256": "1f0dcaec197006af5de100a74d9a267d994bd4ab2e22744bb2c715035303262d",
+      "size": 47802842,
+      "sig": "406dbbd8e31260e8e45a7c2a72ef7e58c2cebbaa2783889fef46abee387ecc81fcf7748b7a4d4277220eb73824910f3a43b777c046c572c121576b7835964d02"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "770e06aaed9f6d2dfe2c26b785001f2cb3fc0b78b76f3b16d9e1af6cc74cf93a",
-      "size": 75240722,
-      "sig": "a581e22d3da7ba18abec1300b46edde0fa4623ff2ede4b4a1b93d29d5d14cab49281fbe8e3d3d08f192f58654fde33d57e534311820459f8ddd107b59355f908"
+      "sha256": "2092cd48f7378cced952f7a853b8859d922e1849c5fe3c64c6fe427d79fd2feb",
+      "size": 75241222,
+      "sig": "5a627ad85c1751081abf42b9d742589e7ee3190163affce374eb719ba25b36b22814a8116c02cc29f5a53abdcd36d4e4d90a13db85e00fa21d07e5f6157beb07"
     }
   }
 }
