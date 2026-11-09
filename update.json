@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.87",
+  "version": "4.9.88",
   "date": "2026-11-09",
-  "notes": "A lista do Projeto mantém os grupos fechados e a rolagem depois de cada alteração.",
-  "notesEn": "The Project list keeps closed groups and the scroll position after each change.",
+  "notes": "Imagens da vista bem enquadradas com paredes compridas; a legenda do Rigging fica inteira na imagem.",
+  "notesEn": "View images framed correctly with long walls; the Rigging legend stays whole in the image.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "0cc9c1feb133174161663ee03077fbed1f1a307d7760cb05867f4d84a24ad429",
-      "size": 47822818,
-      "sig": "e983283b213a18418d9e9398642d62f0f0c79af7326c3042208bd9672fd3deb0e58dc35390acdb18b7dfb7aea4a4f72278a514c9b7a04a09c12fd255bc633d00"
+      "sha256": "aebaf47794499752f112ea68b71f40a4381c8053640a67136a98751aad4dbc5b",
+      "size": 47822426,
+      "sig": "049eb4fb5293dd89708b2b9a19dbce613ad9fe61592cfd25c13db7ac4bee9347f63bde39b365838b062eba4043d13be02b0f0dfae5d4ebe07942f1f119d1aa0d"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "a3440f5b9d7edcfc724e53332801c6b95303255b977a891c55250effd3df1075",
-      "size": 75279366,
-      "sig": "37cc32e747f3fefa1a8fdd1f9778433e999f7a926bc5d088865cf522ef8416ab675c35ffab314940e6ebc4840b863fd4ed5726555f5af10e8a98df5c55a25306"
+      "sha256": "9a3e8c5155b1043e76310185212a0ad2c7fc4b694c81d559f9a24ac3872509c8",
+      "size": 75279588,
+      "sig": "917f272b11eba316f0fed21c95523eee045c3124c075b271693db0b6d91816c1b1c1bd716951709bf08ed84239ab84e06329c214b4479366d891c0377e459e0b"
     }
   }
 }
