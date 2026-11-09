@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.84",
+  "version": "4.9.85",
   "date": "2026-11-09",
-  "notes": "Option/Alt + clique no 3D põe o aparelho mesmo onde as cabeças batem; ângulos sem ruído.",
-  "notesEn": "Option/Alt + click in 3D places a fixture even where heads would hit; angles without noise.",
+  "notes": "Efeitos (chamas, faíscas, confetis) no chão; marca/modelo para vários motores; legenda do Rigging fixa; GDTF com GeometryReference (ex. Robin WTF) dão luz; nomes sem mudança de linha; PDF das folhas mais leves.",
+  "notesEn": "Effects (flames, sparks, confetti) on the floor; make/model for several hoists; fixed Rigging legend; GDTF with GeometryReference (e.g. Robin WTF) give light; names without line breaks; lighter sheet PDFs.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "9ad42f1107b7b58838c1d28474e2ac2bb5868aed892b7db16a7e110c038d8e56",
-      "size": 47809301,
-      "sig": "d670fda6f6b086361a6c96f2d4ccda6dcafd0d370e40038586451cb83073ea5eb9a5a5abcfeaf52f7fe5c0089e62eee428a293a163c7a9adc772eaaa720d7e05"
+      "sha256": "da1a7f77e7b45688b9f9ea9531605af2a531ab704344e4c9487148514c8c4031",
+      "size": 47817967,
+      "sig": "3c6bc7498633ba63b106760e1cbc738e7e79157e95a5d1ed5db1f9ea3a1dcfc1e184d66d05f3e23ef0f6b36fc776406a70e34206e0ba6750fe4a98a58415aa05"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "47a7a1e16b8a8ef51c98ec9766541417fe83c81a1288b25959a95910d6cebd08",
-      "size": 75252561,
-      "sig": "0188f472ec2c0b0d7250cdfd0a8a89f9362df0772917c8ba3147308dd7bd6a41e214d3995b5d916ab6c822d68706a21d05d14aa5db355de0090bb09a448b7409"
+      "sha256": "794de8c984f0765ae938fc913fb9800e18ce52debee4997cc27f4a3d730ebc96",
+      "size": 75274361,
+      "sig": "4006fca0214ed25fa6774b85f6b296f1459c5dbb69dbf847123c08870618a5a4e116e37dc1f5f989d156ceb4c28398d080dab8cf39aad630310a8c9138f96007"
     }
   }
 }
