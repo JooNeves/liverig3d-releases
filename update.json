@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.79",
+  "version": "4.9.80",
   "date": "2026-11-09",
-  "notes": "Mac: corrigido o fecho da app num clique com ferramentas de acessibilidade ligadas (listas e tabelas). Zoom com o trackpad na ponta do cursor.",
-  "notesEn": "Mac: fixed the app closing on a click while accessibility tools are connected (lists and tables). Trackpad pinch zoom at the cursor.",
+  "notes": "Pendurar um aparelho num guincho cinético: a pré-visualização mostra o guincho e o clique vai para ele.",
+  "notesEn": "Hanging a fixture under a kinetic winch: the preview shows the winch and the click goes to it.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "1f0dcaec197006af5de100a74d9a267d994bd4ab2e22744bb2c715035303262d",
-      "size": 47802842,
-      "sig": "406dbbd8e31260e8e45a7c2a72ef7e58c2cebbaa2783889fef46abee387ecc81fcf7748b7a4d4277220eb73824910f3a43b777c046c572c121576b7835964d02"
+      "sha256": "34bcbfd87ceacfc36e666b2ef7eaec5614c2a02240f5a6bb61eab579be51d7ee",
+      "size": 47806879,
+      "sig": "b7a36736443c2b844d3621a0bc78dc40571191831ae560c2aaab5ca09f23e518faed3bc5d1c073983eb28548bacbd1f1aa67a00e7eecc6b3a17778d58c055e0a"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "2092cd48f7378cced952f7a853b8859d922e1849c5fe3c64c6fe427d79fd2feb",
-      "size": 75241222,
-      "sig": "5a627ad85c1751081abf42b9d742589e7ee3190163affce374eb719ba25b36b22814a8116c02cc29f5a53abdcd36d4e4d90a13db85e00fa21d07e5f6157beb07"
+      "sha256": "4f4763cc349fc22a701e73e08d478917f150e1595c3006a6da5bc3d9dd9dec49",
+      "size": 75249571,
+      "sig": "64728c415960a80a6775afd2b6e7efe30d5aeabbfe68ad31ad2dbe7feddcb7a232424cf70c440dc2fd7468d5772a9b190ddc55c1df6d7e6ece72ca5bd6e8e509"
     }
   }
 }
