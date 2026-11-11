@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.89",
+  "version": "4.9.90",
   "date": "2026-11-11",
-  "notes": "Simulação com 4 vistas: a app continua a responder com o fumo a mexer.",
-  "notesEn": "Simulation with 4 views: the app stays responsive with moving haze.",
+  "notes": "Panos e telas (dropados/esticados, tecidos com g/m² das fichas, frontal/retro), peso no cálculo, projeção dos projetores e fontes de vídeo (imagem, ficheiro, câmara) nos ecrãs LED e projetores.",
+  "notesEn": "Drapes and screens (dropped/stretched, fabrics with datasheet g/m², front/rear), weight in the calculation, projector projection and video sources (image, file, camera) on LED walls and projectors.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "62ee98aeb9c2862385d95829df31210b256d68259b6235510fba548fec55bb01",
-      "size": 47828726,
-      "sig": "8c3d0cb2684b8e75f9bbf6be09e9d91d7ce712b03c497c234ab83e8a1bcc69594e1cf2ffbeb49aae030ccb5b3114ba42e428b8cea600007c4313fb776b3c4606"
+      "sha256": "7b74056c0ccfac8893a1048761621881d374a16e0e9791e10c5d9cd085004ac6",
+      "size": 48943482,
+      "sig": "a3a8a2cbb3ee4083375bb179162d21431ace9111ecd9f37acfe37b9b725595ba803553fdb007bfdb9f43678d076b8d18b0dc21aa61e0e45be13644976ed3ed0d"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "2a78b9642efe3cc11e889099141eefaab8bba461ae215ba26a045dcf6393754c",
-      "size": 75281599,
-      "sig": "c72aba6b21a9ea143cfbbef53cdb323ff6e83df889d4c0d164c98a33547823ffb6a30c128f58a7c0f4ddfd24ba28106c382f068b57e98304b495bc428d839b09"
+      "sha256": "5d48557e5ea42f221a7725c99ef897bdec285899683b164f4d5eb96373645b22",
+      "size": 94050302,
+      "sig": "ddf1e29be7d6d7d37bf942c638c6a611801390c2ca28ef7e53ed62b1d3a40eca065a8c9aa58c3b1861ee4916e55ffaefc36c211b7cc50170268a4ce22e14f404"
     }
   }
 }
