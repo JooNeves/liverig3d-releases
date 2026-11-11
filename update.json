@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.90",
+  "version": "4.9.91",
   "date": "2026-11-11",
-  "notes": "Panos e telas (dropados/esticados, tecidos com g/m² das fichas, frontal/retro), peso no cálculo, projeção dos projetores e fontes de vídeo (imagem, ficheiro, câmara) nos ecrãs LED e projetores.",
-  "notesEn": "Drapes and screens (dropped/stretched, fabrics with datasheet g/m², front/rear), weight in the calculation, projector projection and video sources (image, file, camera) on LED walls and projectors.",
+  "notes": "Lente por omissão nos projetores (lista das lentes de cada modelo), NDI (mensagem dos termos ao abrir; precisa do NDI Runtime), Syphon no Mac e Spout no Windows.",
+  "notesEn": "Default lens on projectors (lens list per model), NDI (terms message on start; needs the NDI Runtime), Syphon on Mac and Spout on Windows.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "7b74056c0ccfac8893a1048761621881d374a16e0e9791e10c5d9cd085004ac6",
-      "size": 48943482,
-      "sig": "a3a8a2cbb3ee4083375bb179162d21431ace9111ecd9f37acfe37b9b725595ba803553fdb007bfdb9f43678d076b8d18b0dc21aa61e0e45be13644976ed3ed0d"
+      "sha256": "a9a7b2c6e3e710e1db794df60e9affb153be48498682342bd9ffe0f087124fa1",
+      "size": 49058501,
+      "sig": "7d924b17210aa507ac1535b0982622ba247c6ab29d6c60f8638f2940e2f1e287d06cc1cf4a63f31f2738e2a3b202c5306a769823ba35cdd8aa3975aa59691b05"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "5d48557e5ea42f221a7725c99ef897bdec285899683b164f4d5eb96373645b22",
-      "size": 94050302,
-      "sig": "ddf1e29be7d6d7d37bf942c638c6a611801390c2ca28ef7e53ed62b1d3a40eca065a8c9aa58c3b1861ee4916e55ffaefc36c211b7cc50170268a4ce22e14f404"
+      "sha256": "3d4bd670961d188891756d4719f7449b6c226c8b4cbc0e5fabf09a919f0088f4",
+      "size": 94211536,
+      "sig": "82161940744c2a701b168dc102c5dbfc9a3b1ddc2433982c0db64550f3abdf32a0d9ad0f52ce8864bd025fc4fb803bc1585e7badfa41786a24e9cdffe1a41e06"
     }
   }
 }
