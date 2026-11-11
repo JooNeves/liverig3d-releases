@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.92",
+  "version": "4.9.93",
   "date": "2026-11-11",
-  "notes": "Termos do NDI só ao escolher uma fonte NDI; imagem do Syphon corrigida; arredondamentos dos panos.",
-  "notesEn": "NDI terms only when choosing an NDI source; Syphon image fixed; drape rounding.",
+  "notes": "Fonte de vídeo nova escolhida nas Propriedades do projetor/ecrã LED (CAD). PDF de power sem textos sobrepostos. Equipamento: som, vídeo, guinchos e efeitos nas suas áreas; distros e comandos na lista. Cabo elétrico agarra o símbolo com o desenho afastado.",
+  "notesEn": "New video source chosen in the projector/LED wall Properties (CAD). Power PDF without overlapping text. Equipment: sound, video, winches and effects in their own areas; distros and controllers listed. The electrical cable grabs the symbol when zoomed out.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "bf5d689d8f590a944ddb5f2fad82f7ade29c37b4f7f85a6c4b636544a4437600",
-      "size": 49058443,
-      "sig": "e46e976506ecc35b6db1a13823e41d02130a7f625cc761bb71390f13ae042fe07e9f3c37b025f7d2b7cb2683db08116c39a29c3617bec4a6104b239ce5e2a709"
+      "sha256": "501ce22e5f3e3c85e815421ea6aebfd9efbb45cb0383a759bd85a74e918412a4",
+      "size": 49068198,
+      "sig": "ba2f7a496fa5b80f72f99fd576d861b7ae1e655ca79eba8569d7e2b8d3bfda0c95816deed58bebe5ce5a0301c5a5efe11ac32a2495d090565bb59bb692625207"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "6bb3cf5ffa1a08b283f87c3937bd3056b1400b38a171ae9f84b4e3d2d337191a",
-      "size": 94212425,
-      "sig": "581c12a4bd064007e17ea4b83d19dcd93505e12a43deba219d36ee958089a014fc977337d4262d1525380af0d3e1d24cb9edd222dff0e2fae259ee1c810e3e06"
+      "sha256": "f721a6d58fc404c85d97f1c019c49aae635823aa9936468ac58bcd6e1ad62233",
+      "size": 94229699,
+      "sig": "f783da8d9f37dbfff05f97ae5e9449fc48b48427fe118aca3a41002e1f4081faf1c8b71553cd693eefb9be8c32344d992d36ff768e66d701e528667493742b09"
     }
   }
 }
