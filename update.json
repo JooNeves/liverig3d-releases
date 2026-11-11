@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.93",
+  "version": "4.9.94",
   "date": "2026-11-11",
-  "notes": "Fonte de vídeo nova escolhida nas Propriedades do projetor/ecrã LED (CAD). PDF de power sem textos sobrepostos. Equipamento: som, vídeo, guinchos e efeitos nas suas áreas; distros e comandos na lista. Cabo elétrico agarra o símbolo com o desenho afastado.",
-  "notesEn": "New video source chosen in the projector/LED wall Properties (CAD). Power PDF without overlapping text. Equipment: sound, video, winches and effects in their own areas; distros and controllers listed. The electrical cable grabs the symbol when zoomed out.",
+  "notes": "Power ▸ Distros: escolher na lista escolhe os distros no projeto; botão Tirar do projeto.",
+  "notesEn": "Power ▸ Distros: choosing in the list selects the distros in the project; Remove from project button.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "501ce22e5f3e3c85e815421ea6aebfd9efbb45cb0383a759bd85a74e918412a4",
-      "size": 49068198,
-      "sig": "ba2f7a496fa5b80f72f99fd576d861b7ae1e655ca79eba8569d7e2b8d3bfda0c95816deed58bebe5ce5a0301c5a5efe11ac32a2495d090565bb59bb692625207"
+      "sha256": "52ea081afada7d1ce8939c9925bad25a7ffb10a2f68e6495e50f0e8bfa6454b1",
+      "size": 49071485,
+      "sig": "1c547e7ae6af3a595db3166df65ce79056acf6632b020888ae0955a8fc3efe85f2db0e4b23f5422951903c0ed8d0a341d8ac6768a86b134d34c5141ac72d9605"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "f721a6d58fc404c85d97f1c019c49aae635823aa9936468ac58bcd6e1ad62233",
-      "size": 94229699,
-      "sig": "f783da8d9f37dbfff05f97ae5e9449fc48b48427fe118aca3a41002e1f4081faf1c8b71553cd693eefb9be8c32344d992d36ff768e66d701e528667493742b09"
+      "sha256": "b7ad24c8c179c09ff667baabab51c12e1f90bf2ae992e51b9962511c85a4b883",
+      "size": 94232627,
+      "sig": "7588269248824f36f6908622cf6979f667e2ad279c054c7717ef94e315c0c755a3a8f203dfca047dfbe30e9ebc4af77cfcaf089032176ef8226decb51dd0de07"
     }
   }
 }
