@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.91",
+  "version": "4.9.92",
   "date": "2026-11-11",
-  "notes": "Lente por omissão nos projetores (lista das lentes de cada modelo), NDI (mensagem dos termos ao abrir; precisa do NDI Runtime), Syphon no Mac e Spout no Windows.",
-  "notesEn": "Default lens on projectors (lens list per model), NDI (terms message on start; needs the NDI Runtime), Syphon on Mac and Spout on Windows.",
+  "notes": "Termos do NDI só ao escolher uma fonte NDI; imagem do Syphon corrigida; arredondamentos dos panos.",
+  "notesEn": "NDI terms only when choosing an NDI source; Syphon image fixed; drape rounding.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "a9a7b2c6e3e710e1db794df60e9affb153be48498682342bd9ffe0f087124fa1",
-      "size": 49058501,
-      "sig": "7d924b17210aa507ac1535b0982622ba247c6ab29d6c60f8638f2940e2f1e287d06cc1cf4a63f31f2738e2a3b202c5306a769823ba35cdd8aa3975aa59691b05"
+      "sha256": "bf5d689d8f590a944ddb5f2fad82f7ade29c37b4f7f85a6c4b636544a4437600",
+      "size": 49058443,
+      "sig": "e46e976506ecc35b6db1a13823e41d02130a7f625cc761bb71390f13ae042fe07e9f3c37b025f7d2b7cb2683db08116c39a29c3617bec4a6104b239ce5e2a709"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "3d4bd670961d188891756d4719f7449b6c226c8b4cbc0e5fabf09a919f0088f4",
-      "size": 94211536,
-      "sig": "82161940744c2a701b168dc102c5dbfc9a3b1ddc2433982c0db64550f3abdf32a0d9ad0f52ce8864bd025fc4fb803bc1585e7badfa41786a24e9cdffe1a41e06"
+      "sha256": "6bb3cf5ffa1a08b283f87c3937bd3056b1400b38a171ae9f84b4e3d2d337191a",
+      "size": 94212425,
+      "sig": "581c12a4bd064007e17ea4b83d19dcd93505e12a43deba219d36ee958089a014fc977337d4262d1525380af0d3e1d24cb9edd222dff0e2fae259ee1c810e3e06"
     }
   }
 }
