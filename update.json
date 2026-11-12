@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.101",
+  "version": "4.9.102",
   "date": "2026-11-12",
-  "notes": "Etiquetas dos aparelhos à volta do símbolo na vista de cima (Ver ▸ Etiquetas dos aparelhos); desenho do fabricante por modelo (peças do DWG/DXF/3D ▸ Propriedades); arrays com motores nos vértices de bridles.",
-  "notesEn": "Fixture labels around the symbol in top view (View ▸ Fixture labels); manufacturer drawing per model (DWG/DXF/3D pieces ▸ Properties); arrays with hoists on bridle apexes.",
+  "notes": "Biblioteca Layher Allround (todas as peças do catálogo), Torre Layher com encaixe automático e peças em sólidos; desenho do fabricante por ficheiro; escolher os campos das etiquetas; canais DMX dos guinchos; símbolos de frente e de lado.",
+  "notesEn": "Layher Allround library (whole catalogue), Layher tower with automatic fit and solid parts; manufacturer drawing from a file; choose label fields; winch DMX channels; front and side symbols.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "4fe1dc53a973ff94fbec7019ddc432a1076304b70ff6a3bdcb575f412ee3b915",
-      "size": 49224111,
-      "sig": "58738b03ce1f3645fb757feb4cbc92d6c8d22d0c1decfd7d8ba801f052cc781fe4561954b8e7c818f6d49635d9ceebf52820e1e86455493d79f8da4d4250670f"
+      "sha256": "f3162e3962d889949366fbac1761872b3b6fc75822e9a7ca0a97bc79cb4e6ff8",
+      "size": 49396793,
+      "sig": "51157ae3627c32d00e304738286edadc169a95134257d7929488095e4e7c2d385b27fc670aef8928fb4f8b61dda8489f4303a7bb3415f05abdfa6ae4301a0f00"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "f2181b80d540ec152f8784aa18f1b5d09e921253b7345041ca1ad4a8b0d28015",
-      "size": 94458388,
-      "sig": "20d4d0959ce514a7cd07053925bd14055af08afafb835090417aa911af3c6c573c5cd32d2c3a88bd3d258d1279b9fed467e24c13016eb1b0f497a427e48aa80e"
+      "sha256": "d94008ee1033e85f38bf4bd2cb470ee817722d05812f09d9255ac3123373939f",
+      "size": 94738244,
+      "sig": "aa9392881b84c630725d9996727f5e8dc914967b45800aa947a3a0b24118fa7f3c3c4c38da99b26ff1f055cb0453bae6a5fd51566c8d33f4a50803f812fa2a0b"
     }
   }
 }
