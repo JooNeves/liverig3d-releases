@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.96",
+  "version": "4.9.100",
   "date": "2026-11-12",
-  "notes": "Câmaras como no Wyg: desenhadas no CAD (layer Câmaras) e câmaras por vista no Live. Guinchos cinéticos na Simulação (descida à velocidade da ficha).",
-  "notesEn": "Cameras as in Wyg: drawn in CAD (Cameras layer) and per-view cameras in Live. Kinetic winches in the Simulation (drop at datasheet speed).",
+  "notes": "Câmaras no CAD (mover, lente, câmara da biblioteca); fita LED (RGB, RGBW, branca, pixel a pixel) e luz numa forma; caixas de som com frame e motores (o peso vai para o truss/teto).",
+  "notesEn": "Cameras in CAD (move, lens, library camera); LED tape (RGB, RGBW, white, pixel) and light on a shape; speakers with frame and hoists (weight goes to the truss/ceiling).",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "f95164c0748cc7238841ddc3a9c7b347ac624ecb4fe2f51157424fcb2c997646",
-      "size": 49095988,
-      "sig": "089e7ce133f47699f81096a132908094bbb76dc8cfa09b89223ef73960f02947a12127db0b8a06461df312021250fcc5f38022ea1124d63bee44d6368f10f503"
+      "sha256": "0eb13c6509409f44dd20ed67bbd924fd433ed575a682e2f35121bedd0b4a2220",
+      "size": 49161743,
+      "sig": "d02ed0575fc31d2fd6ec59c11499a841725744b29cfd1383499bdaaf603e606f58b62eec4ac570ea738170d58910f12e20c69271e1784b7c84350341ecfc3000"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "5458f4690db7b08d618ee5f23357ad5d377fb11e5c03015b33c7ca60caacc072",
-      "size": 94269814,
-      "sig": "7f5f1782e67c87729bc8f25df9d6730e5baeddcb41f2c2d4186c973c40b82e3953f5bd54a0fb352320c813833fee6dde6099065a044f2736aa29c6050a5ec50c"
+      "sha256": "2542da231f3d9f9a32dad1f185a83d72c68b3a99d179b31016e9c6118f28790a",
+      "size": 94376963,
+      "sig": "aad2203f28bf4b17c0198e41c05d8d0bface790ecadd7c58bf2321f0b9c58f53688744bd9ba6373bce5c2b3c8df2228f04293ee1f89d5ea9f419a4d709f3e70e"
     }
   }
 }
