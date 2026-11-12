@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.102",
+  "version": "4.9.103",
   "date": "2026-11-12",
-  "notes": "Biblioteca Layher Allround (todas as peças do catálogo), Torre Layher com encaixe automático e peças em sólidos; desenho do fabricante por ficheiro; escolher os campos das etiquetas; canais DMX dos guinchos; símbolos de frente e de lado.",
-  "notesEn": "Layher Allround library (whole catalogue), Layher tower with automatic fit and solid parts; manufacturer drawing from a file; choose label fields; winch DMX channels; front and side symbols.",
+  "notes": "Layher revisto: as peças põem-se passando o rato por onde vão, sem repetidas, pisos encostados, rodapés na beira, torre posta com o rato, rodar e mover, nomes curtos, peças em sólidos. Janela flutuante (Ver ▸ Janela flutuante…).",
+  "notesEn": "Layher reworked: hover where a part goes to place it, no duplicates, decks packed, toe boards on the edge, tower placed with the mouse, rotate and move, short names, solid parts. Floating window (View ▸ Floating window…).",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "f3162e3962d889949366fbac1761872b3b6fc75822e9a7ca0a97bc79cb4e6ff8",
-      "size": 49396793,
-      "sig": "51157ae3627c32d00e304738286edadc169a95134257d7929488095e4e7c2d385b27fc670aef8928fb4f8b61dda8489f4303a7bb3415f05abdfa6ae4301a0f00"
+      "sha256": "60e1ed37840af4b437cd99dfc55448b433d439612c4ad2b5fa4795e2b34d52b2",
+      "size": 49428763,
+      "sig": "5844be0e5bb587019588fc2ab56667e34163f5a917496e6d00ab351fb49297f2f0d5a95a5323cf6fe228479e2564f0c21f7b7b459a370ba87e2cfb9dfb94dd0e"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "d94008ee1033e85f38bf4bd2cb470ee817722d05812f09d9255ac3123373939f",
-      "size": 94738244,
-      "sig": "aa9392881b84c630725d9996727f5e8dc914967b45800aa947a3a0b24118fa7f3c3c4c38da99b26ff1f055cb0453bae6a5fd51566c8d33f4a50803f812fa2a0b"
+      "sha256": "3b29bf7d21293d4f5e63d37bb4a5f463ef719a2f723c6f4d8c2e2711fed69286",
+      "size": 94803588,
+      "sig": "2fe488203d0e643ff3011712dd7f86276141e670d81941710468b867b04f27dce2c961658bf1e60df3c2a63dc3e818201caae6c886012a1cd8bfe1896d0bba05"
     }
   }
 }
