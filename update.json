@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.94",
-  "date": "2026-11-11",
-  "notes": "Power ▸ Distros: escolher na lista escolhe os distros no projeto; botão Tirar do projeto.",
-  "notesEn": "Power ▸ Distros: choosing in the list selects the distros in the project; Remove from project button.",
+  "version": "4.9.96",
+  "date": "2026-11-12",
+  "notes": "Câmaras como no Wyg: desenhadas no CAD (layer Câmaras) e câmaras por vista no Live. Guinchos cinéticos na Simulação (descida à velocidade da ficha).",
+  "notesEn": "Cameras as in Wyg: drawn in CAD (Cameras layer) and per-view cameras in Live. Kinetic winches in the Simulation (drop at datasheet speed).",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "52ea081afada7d1ce8939c9925bad25a7ffb10a2f68e6495e50f0e8bfa6454b1",
-      "size": 49071485,
-      "sig": "1c547e7ae6af3a595db3166df65ce79056acf6632b020888ae0955a8fc3efe85f2db0e4b23f5422951903c0ed8d0a341d8ac6768a86b134d34c5141ac72d9605"
+      "sha256": "f95164c0748cc7238841ddc3a9c7b347ac624ecb4fe2f51157424fcb2c997646",
+      "size": 49095988,
+      "sig": "089e7ce133f47699f81096a132908094bbb76dc8cfa09b89223ef73960f02947a12127db0b8a06461df312021250fcc5f38022ea1124d63bee44d6368f10f503"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "b7ad24c8c179c09ff667baabab51c12e1f90bf2ae992e51b9962511c85a4b883",
-      "size": 94232627,
-      "sig": "7588269248824f36f6908622cf6979f667e2ad279c054c7717ef94e315c0c755a3a8f203dfca047dfbe30e9ebc4af77cfcaf089032176ef8226decb51dd0de07"
+      "sha256": "5458f4690db7b08d618ee5f23357ad5d377fb11e5c03015b33c7ca60caacc072",
+      "size": 94269814,
+      "sig": "7f5f1782e67c87729bc8f25df9d6730e5baeddcb41f2c2d4186c973c40b82e3953f5bd54a0fb352320c813833fee6dde6099065a044f2736aa29c6050a5ec50c"
     }
   }
 }
