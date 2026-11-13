@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.103",
-  "date": "2026-11-12",
-  "notes": "Layher revisto: as peças põem-se passando o rato por onde vão, sem repetidas, pisos encostados, rodapés na beira, torre posta com o rato, rodar e mover, nomes curtos, peças em sólidos. Janela flutuante (Ver ▸ Janela flutuante…).",
-  "notesEn": "Layher reworked: hover where a part goes to place it, no duplicates, decks packed, toe boards on the edge, tower placed with the mouse, rotate and move, short names, solid parts. Floating window (View ▸ Floating window…).",
+  "version": "4.9.107",
+  "date": "2026-11-13",
+  "notes": "Andaimes: construir torres por vãos, desenhar a área em planta, estrado a uma altura, juntar vãos a torres que já existem; pastas Layher Allround e ADAPT na Biblioteca; reconhecer andaime ao importar DWG/DXF (pela forma dos blocos); rodas Layher; frente dos desenhos de line arrays corrigida; cores dos modelos 3D (OBJ, glTF, 3DM); consolas e pisos em consolas; escadas tiram os pisos no caminho.",
+  "notesEn": "Scaffolding: build towers by bays, draw the area in plan, stage deck at a height, add bays to existing towers; Layher Allround and ADAPT folders in the Library; recognise scaffolding when importing DWG/DXF (from block shapes); Layher castors; line-array maker drawings face the right way; 3D model colours (OBJ, glTF, 3DM); consoles and decks on consoles; stairs remove the decks in their way.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "60e1ed37840af4b437cd99dfc55448b433d439612c4ad2b5fa4795e2b34d52b2",
-      "size": 49428763,
-      "sig": "5844be0e5bb587019588fc2ab56667e34163f5a917496e6d00ab351fb49297f2f0d5a95a5323cf6fe228479e2564f0c21f7b7b459a370ba87e2cfb9dfb94dd0e"
+      "sha256": "aa3848ca4b3faf91590683c9ce738334d52e27f88242f4fcaadf99a6d965ea6e",
+      "size": 49549521,
+      "sig": "50c91bdaff054fcd4ce8deae8ec916370faf5f7ae7fd8ee84451c7a8f89efde5eb5d51ee0c952492ecaf8d84161b52d98fff51346356efcbec4ade54b9149706"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "3b29bf7d21293d4f5e63d37bb4a5f463ef719a2f723c6f4d8c2e2711fed69286",
-      "size": 94803588,
-      "sig": "2fe488203d0e643ff3011712dd7f86276141e670d81941710468b867b04f27dce2c961658bf1e60df3c2a63dc3e818201caae6c886012a1cd8bfe1896d0bba05"
+      "sha256": "773525c1020e76a334c9104b72456e0d9e44abfbf1c3a6bf3fa4e7300d9f1ddf",
+      "size": 94969071,
+      "sig": "d1d76825e378e764817307fa3c0784279364cb88772d6a8fd1d7d397b37b6420b4a0dbd6bcf12fe3ed7174a4c22817be36b00fcb98af0917c2f28318c92dc90c"
     }
   }
 }
