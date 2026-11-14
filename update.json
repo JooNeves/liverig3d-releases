@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.108",
-  "date": "2026-11-13",
-  "notes": "Andaimes: a torre continua escolhida depois de acrescentar ou tirar vãos e de mudar as medidas; janela do estrado arrumada.",
-  "notesEn": "Scaffolding: the tower stays selected after adding or removing bays and changing its sizes; stage deck window tidied.",
+  "version": "4.9.109",
+  "date": "2026-11-14",
+  "notes": "Windows: o pacote deixa de ser bloqueado pelo Microsoft Defender (a biblioteca de vídeo Spout já não escreve no Registo nem lança programas).",
+  "notesEn": "Windows: the package is no longer blocked by Microsoft Defender (the Spout video library no longer writes to the Registry or launches programs).",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "0d5485673998c0e88bf085cbcf8691506edb63f215faad80077daf20a49b8c8e",
-      "size": 49549129,
-      "sig": "f1872ea7ee455152216bbb111ba93da9328f05d7015353963001ff3c4835d64900bbedffe1e75b95a79cdfb8c2835a85a783ff06dc1bdfc7e3e778e3c69e9a00"
+      "sha256": "6d7c0db3f7e45bb0bd355940713d2141f634ea46bfd2393632794f468914a7e8",
+      "size": 49548965,
+      "sig": "8a143d3ea08e5013507966977ab7026fa8eb36f4f7c53efbf876161cbdb531311e64894cdd1bfe7f36f5b086081dd621f3eaaf55b5bcdaaaf710932d63deff0c"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "fc615e00c6126e5ff093bef62e145b2ddd42161970aef4cb7c956bbe08ec3179",
-      "size": 94993696,
-      "sig": "b62a6bc356cd6dfb0039eb29f4ceee3acb29b802037b0882fa3ea2fe7ea76ede657d1317cbf60ede1f61b85ced769f9f172ab99249a85923591fdf7a1ece5c04"
+      "sha256": "ae41d44d4347d57730a523a905cce18783935da34f53ffc217b6b6c840d5242c",
+      "size": 94993697,
+      "sig": "1c00bf01c0f76a2c331523301fb55cb94530eb3d66db8964b428c08abeff92615f5a1fad33bfdc5eabf16f20e98de6595249b990dbb4b5382d7836fbedba0f02"
     }
   }
 }
