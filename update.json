@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.111",
+  "version": "4.9.112",
   "date": "2026-11-14",
-  "notes": "Eixos X/Y/Z prendem também a altura (só Y numa vista de lado = só em Y). Janela Medir com ângulo e distância em 3D; a régua saiu da barra. Vigas convertidas de arcos seguem a curvatura do desenho, e no Rigging a estrutura fica com o formato e o tamanho do modelo. O clique escolhe tubos lisos do desenho (horizontais e diagonais de andaime) e o andaime convertido fica à altura do desenho.",
-  "notesEn": "X/Y/Z axis buttons also lock the height (only Y in a side view = only along Y). Measure window with angle and distance in 3D; the ruler left the toolbar. Beams converted from arches follow the drawing's curvature, and in Rigging the structure keeps the model's shape and size. Clicks pick smooth tubes in the drawing (scaffold ledgers and diagonals) and converted scaffold keeps the drawing's heights.",
+  "notes": "Eixos X/Y/Z prendem também nas vistas de cima e iso (Mover, Copiar, Linha; só Z = a direito para cima). Converter em ▸ Truss dá sempre truss reto; o curvo só pelo botão Truss curvo. Escolher um truss clicando em qualquer sítio do corpo (banzos, diagonais). Andaime ADAPT pelo desenho: prumos sem o espigão, 1.ª roseta onde estão as horizontais, copo por cima do pé de rosca, cabeças vermelhas e cunhas amarelas.",
+  "notesEn": "X/Y/Z axis locks also hold in the top and iso views (Move, Copy, Line; Z only = straight up). Convert to ▸ Truss always gives a straight truss; curved only with the Curved truss button. Pick a truss by clicking anywhere on its body (chords, diagonals). ADAPT scaffold from the drawing: standards without the spigot, first rosette where the ledgers are, base collar above the screw jack, red heads and yellow wedges.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "e4a8195e6996e63b9d90e3f330f8687afc42a2c1a59511a50fea1ad3ab1a2345",
-      "size": 49572099,
-      "sig": "14751c5c2042bd240bff341e6c072a46f1cfb20a92c107bca633067c3eb0bd6df3baf05062107c31fd65489687329351ae63c8c05edf4e6e59b62b240507960e"
+      "sha256": "7cb238de58e72eec1df804c5bf8e0ab6df721c474049bd55a30c8bb4305fe37a",
+      "size": 49577168,
+      "sig": "080ce23b05943ef8b3d9a4bfd8712281357dfe03281bd1f56956d5ad1bb9fa192616e1bb10bfdc6e1221474f26b6ceaba290e878ca89b6b8c178c57487272e04"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "e4e693e6f40a1fcfdd49e1a3272ae77a9404adb3663dbaefbbedd810accb6e0f",
-      "size": 95013809,
-      "sig": "53fdbb89fd8976d617f75bcf14747b142548df5b51ba9ea5164e96e8e8a8f686b5328d3fa9ab4d45988821c5a4c4a208d442fcd9cc17d3601032d251eb2e1601"
+      "sha256": "d096f2e7c1941b5b80dc565d0b1673f86ca4fac5e0f5a710093edc6bfe04ce84",
+      "size": 95012571,
+      "sig": "387b582a5afcfbdc3544a23d3dc135a61521b5114906c0bc1517163328dd644d735a983ceb14477878cb09085ff0b59767db8df6f347a202e279e84d00a11409"
     }
   }
 }
