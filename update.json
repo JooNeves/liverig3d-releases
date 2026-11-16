@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.116",
+  "version": "4.9.118",
   "date": "2026-11-16",
-  "notes": "Truss peça a peça com a peça fantasma; juntar layers, procurar, cinzento, Tag e Descrição; cotas contínua, de base, de ângulo, de raio e de arco; cotar os truss; limpar o projeto; Surface com extrusão; Conjuntos; scene pela mesa no Live; barra de escala; modelos de projeto e pacote zip; Posições; atalhos com nome; painéis com pino; comprimento real do truss inclinado; Cable pick.",
-  "notesEn": "Piece-by-piece truss with a ghost; merge, search, grey, Tag and Description for layers; continued, baseline, angle, radius and arc dimensions; dimension trusses; purge the project; Surface with extrusion; Sets; scene from the console in Live; scale bar; project templates and zip package; Positions; named shortcuts; pinned panels; real length of sloped trusses; Cable pick.",
+  "notes": "Painel Layers mais compacto; copiar/mover cotas; importar layouts e legendas de outro projeto.",
+  "notesEn": "More compact Layers panel; copy/move dimensions; import layouts and legends from another project.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "cedcc7bcf0f1b28952fb110e89cf44d7a03c6c7bad706bcfff18eed4035d7307",
-      "size": 49744892,
-      "sig": "70243e4c8c74bf2b36a8dbbea4c27ec8667600ec5727f887c97060479d2d69cc3b5892412ba9aadf1e5305d2372f7226b8f1566eb99d3cee629fc6e2730bd70d"
+      "sha256": "144aa73772973d8d15171d35c4e8d5fce9af77cb8365f2f928e852484b02a05b",
+      "size": 49773718,
+      "sig": "02c7b6c39bab9ba2e2576f4ae3eae3159123fcb1921ba263e0a261a573ff1e80fef39dea8a645d6ae29115e0e1a315e8f2c557d243768d3d6ae74a16649b5505"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "95414161fc9b583d4762f1f45e2205d7c5c105e31334d5bf725cd1fb7c7fe00f",
-      "size": 95280712,
-      "sig": "e590dc0c083ab5c05b895d77f68b39a28fb29caaf7c34c2e716051a7aa58996b9d5af47b4e2e7ce829a26dc122be5b4732fde29d665d277ffd0b7939cb886907"
+      "sha256": "5d77690ca4b630a8624a5ace98b8ce387ccd906a4d42289c38b1f5abad78b7ca",
+      "size": 95313796,
+      "sig": "e33d9d161d636f6fd55e3e28f722e024763747c59d51beab2e26c9c50128f8c269b8158cc3eab42c9b894f0f48a037c383cb7af138f1a4b86e03db38c644c90c"
     }
   }
 }
