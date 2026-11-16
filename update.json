@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.113",
-  "date": "2026-11-15",
-  "notes": "Catálogo ADAPT da Metalusa na Biblioteca (prumos, inicializador, bases, horizontais, diagonais, com referências e pesos). Converter o andaime em ADAPT usa a referência do fabricante no nome do bloco, senão a peça do catálogo mais perto pela medida; as peças sem par no catálogo ficam listadas.",
-  "notesEn": "Metalusa ADAPT catalogue in the Library (standards, base collar, jacks, ledgers, diagonals, with references and weights). Converting scaffold to ADAPT uses the manufacturer's reference in the block name, otherwise the closest catalogue part by size; parts with no catalogue match are listed.",
+  "version": "4.9.114",
+  "date": "2026-11-16",
+  "notes": "Truss inclinado com comprimento real e contas ao longo do eixo; truss convertidos do DWG mantêm a inclinação; truss na planta como tubos só com contorno e em 3D tubos redondos; ponto direto (steel flex) sem motor; bloco do DWG com um bloco interior já explode e edita; seleção: inverter, layer atual, anterior, último criado.",
+  "notesEn": "Sloped trusses with real length and calculation along the axis; trusses converted from DWG keep their slope; trusses in plan as outline tubes and round tubes in 3D; direct point (steel flex) without a hoist; DWG block with one inner block now explodes and edits; selection: invert, current layer, previous, last created.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "ae9524001107a0f80223e752466b2324b15ddef0c89991d2666936f6374d8b5e",
-      "size": 49583685,
-      "sig": "213f85db8aeecda299ef7788379304b1d2fdab0d1a63756213e968d4aaac9b18ad5a64f7f150b3167525f576904a4485486a1fd80c4bde5a2e7fa5bb261f3609"
+      "sha256": "6791dad486fc4100f7b894e828664650f24af02917872f6d745c6555b232d7a8",
+      "size": 49602003,
+      "sig": "92fad02e670ba88adcf2c240d3e557bbe4efa792e1e9e9846bd75c06cfc5c616009bc629a8155544007f3e73138be180764eac69ab0d9a02a678b1ddea8fdc0d"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "ba68892386b21353ab4f983fd1eeee1b739b2302e0abcce42ce33e776206c83b",
-      "size": 95049738,
-      "sig": "c0d7a61dfe5a86c91d24b1c39c36bbf2225d107f9369fa1963335eb68fd1231a3f05d5c56098c46cf1a8d36570e58b53a47a001687cbac96afaf3f2b11e40b09"
+      "sha256": "07e409e9ec1faca423f1dc20d71621e935c3b6dc483993b28fc8f80756b69661",
+      "size": 95072617,
+      "sig": "a52ef7074a8c9da0fc91ca1ecf3e60cfec67aae49a3f07f98bcdc67ecb377e2a1a4a9ad6dab1709cce11079b86ace758e70a2395d6138171845c7e78bb216500"
     }
   }
 }
