@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.122",
+  "version": "4.9.123",
   "date": "2026-11-19",
-  "notes": "Motores agarram-se ao truss e ao pre-rig de cima, com steel flex; truss novo junta-se ao anterior; mover na vista de frente; vigas sem repetidos; exportar só o escolhido; scenes ficam ativas; símbolos elétricos no DWG.",
-  "notesEn": "Hoists hang from the truss/pre-rig above, with steel flex; new truss joins the previous one; move in front view; no duplicate beams; export selection only; scenes stay active; electrical symbols in DWG.",
+  "notes": "Layouts: Medidas das posições — uma folha por truss/pre-rig com os steel flex e os fixtures no sítio e as distâncias entre eles e desde a ponta A.",
+  "notesEn": "Layouts: Position measurements — one sheet per truss/pre-rig with steel flex and fixtures in place and the distances between them and from end A.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "4bad86c9f7c0ff29c5cee6c28c489575e82c75318a0a247c425d0e40ff9898ff",
-      "size": 49801873,
-      "sig": "9f302ff979517b9fcceb205b2c9838377d33f3ebd4740881dffbff9518b760d317cc7946bb36ff7e8d1b25cf2abe25742f00b3240d32df494426440c728afe05"
+      "sha256": "8397fc934578125b5c98ae2c3950d1cf528bddaa60cbfa4c26acc5c78c5689d6",
+      "size": 49833441,
+      "sig": "00a738f14044014fc8ce2eb679cecdce37c950c84e01c6ed155fb649960274f46ce1ea2712d28b6f707763400239459126074d16cab5b2fe607e12d6cf2aa300"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "046eba0cda923168156bfca3c86d94b7c098aabdeef476e89f8a7bff9f2da520",
-      "size": 95371966,
-      "sig": "c0a97131fef4d8bb28eaa698719743f3843875453e85da27a6c3497f2d29bc0f5179bc653256ce31019e1f01cfb6db7443d0609773c3aac8ea7ea4020669120b"
+      "sha256": "3aba00b372063a74a41a798e53d6d45a7726b882cf85a3bdef10d22249f02642",
+      "size": 95443404,
+      "sig": "3f10dd536ac558df210a5a68c6d0c8096b5cebf161f1a6adfbe3d9d8706ef66e729675b0234a41dd76289fc329187dd1c76886093e70b69df7344f3310c2470d"
     }
   }
 }
