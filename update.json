@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.123",
-  "date": "2026-11-19",
-  "notes": "Layouts: Medidas das posições — uma folha por truss/pre-rig com os steel flex e os fixtures no sítio e as distâncias entre eles e desde a ponta A.",
-  "notesEn": "Layouts: Position measurements — one sheet per truss/pre-rig with steel flex and fixtures in place and the distances between them and from end A.",
+  "version": "4.9.129",
+  "date": "2026-11-20",
+  "notes": "Painéis LED encostam como o truss; fixtures deslizam no truss; botão direito: escolher por tipo; cor do layer nos fixtures; fixtures no banzo de cima; cada aparelho com a sua forma na planta e desenho do fabricante pelo botão direito; medidas ADAPT confirmadas; folhas de posição nos Layouts.",
+  "notesEn": "LED panels abut like truss; fixtures slide along the truss; right-click: select by type; layer colour on fixtures; fixtures on the top chord; each fixture with its own plan shape and manufacturer drawing from the right-click; ADAPT measurements confirmed; position sheets in Layouts.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "8397fc934578125b5c98ae2c3950d1cf528bddaa60cbfa4c26acc5c78c5689d6",
-      "size": 49833441,
-      "sig": "00a738f14044014fc8ce2eb679cecdce37c950c84e01c6ed155fb649960274f46ce1ea2712d28b6f707763400239459126074d16cab5b2fe607e12d6cf2aa300"
+      "sha256": "9ad8b11948cb10d0fee3dd3caab0c9bdc4fc93fa69450303057ddabfaaf8e0d8",
+      "size": 49857078,
+      "sig": "8c6d2637fc3a3109ea54f6c097c35a0a486f0f0915446f7f350600a6704fadd05032bd33327a8bf552ee71cffd3b3f7eb19ecacd448bd85104230b5fbeb32a03"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "3aba00b372063a74a41a798e53d6d45a7726b882cf85a3bdef10d22249f02642",
-      "size": 95443404,
-      "sig": "3f10dd536ac558df210a5a68c6d0c8096b5cebf161f1a6adfbe3d9d8706ef66e729675b0234a41dd76289fc329187dd1c76886093e70b69df7344f3310c2470d"
+      "sha256": "995bf43c10bc44574ba85689904475531fb97ca5c3fa810d7752eea2ddaef922",
+      "size": 95486098,
+      "sig": "682027a551659acb45c5c4e1e814d6492a63b6c651d6a8ed7995ad0558543a2c1d4971742b1f2daddbbbc67962e6a3d9299ae6da8f1dd929ac3949a0192a6100"
     }
   }
 }
