@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.131",
-  "date": "2026-11-20",
-  "notes": "Peças de cenário com encaixe: os objetos guardados aprendem do desenho onde cada peça toca nas outras; ao pôr uma peça, a marca de água é a própria peça e encaixa numa peça que já lá está, rodada e à altura certa.",
-  "notesEn": "Scenery pieces that fit: saved objects learn from the drawing where each piece touches the others; when placing, the watermark is the piece itself and snaps onto a piece already there, rotated and at the right height.",
+  "version": "4.9.132",
+  "date": "2026-11-21",
+  "notes": "Biblioteca ▸ Objetos guardados: ao escolher uma peça aparece a imagem dela por cima da descrição.",
+  "notesEn": "Library ▸ Saved objects: picking a piece shows its image above the description.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "7ce9aea58de3cacf37b2fb7e55f84a40318b0e3258fd6be02a64c66c3fc6fb7a",
-      "size": 49933629,
-      "sig": "f303720a02e684dffbbfcf9bb1df18da3a11408cd6c3610a1d29f1feab289777e2a88c314957e3929a756d7c406c4fb9f111987ae1416257fd76bc00d36f7103"
+      "sha256": "3a9b6ef2f68999de6d769c1fcef673132eaf3ff7a68761410b7a57b7f514412d",
+      "size": 49955770,
+      "sig": "a9054cb654caede8704192251e41f0a2f3bf121bd78cb517aaacaedc92b2035f404867334835b5baa40bdfcad902694b538042362e42cc4751758ecabb7ea200"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "6c282e76cb25243097a62264d1703e82a19607315e7a0ba96784a9dbf582d666",
-      "size": 95578405,
-      "sig": "4266bdfd55a9e8ec8e85be0056459802690d5c14b5624ece4a328de2a147dec966fed513d74896ccda193aff33af3b3dec1013207482773d8e303ebfe6abd00d"
+      "sha256": "cb07ee3c9ce90f04c44edcc50c21fda7e9664e534c32337d6f56f6b656eee7d5",
+      "size": 95624064,
+      "sig": "97e6f9e26912cbf6bb43b42425f169052d329c6914059096ed8b612fe57052d54bad573ef362551e221d4a2593e3978f0bf517f0e9430aae078fe93439184306"
     }
   }
 }
