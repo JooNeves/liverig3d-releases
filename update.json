@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.132",
+  "version": "4.9.133",
   "date": "2026-11-21",
-  "notes": "Biblioteca ▸ Objetos guardados: ao escolher uma peça aparece a imagem dela por cima da descrição.",
-  "notesEn": "Library ▸ Saved objects: picking a piece shows its image above the description.",
+  "notes": "Fixtures: o Mover põe os escolhidos outra vez como novos (clique no truss); planta em traço; painéis no banzo da frente, no de trás ou ao centro; vários fixtures iguais com modo DMX, nome, unidades e patch seguidos; a lista dos objetos guardados atualiza-se ao abrir o separador.",
+  "notesEn": "Fixtures: Move places the selected units again like new ones (click on a truss); line-art plan view; panels on the front chord, back chord or centre; several identical fixtures share DMX mode, name, consecutive units and patch; the saved-objects list refreshes when its tab opens.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "3a9b6ef2f68999de6d769c1fcef673132eaf3ff7a68761410b7a57b7f514412d",
-      "size": 49955770,
-      "sig": "a9054cb654caede8704192251e41f0a2f3bf121bd78cb517aaacaedc92b2035f404867334835b5baa40bdfcad902694b538042362e42cc4751758ecabb7ea200"
+      "sha256": "13b93f962c4fbac32976faf02c6e8b717418052faef2683d34054d720d056a20",
+      "size": 49986620,
+      "sig": "63de6f494ed3f575ab74bcde2c9812c015779b7ef2336376a546b3fcb5ba3f18827a52d5a6f92c5b21caf5c09d2e5520a377a061625ab017915294b2dd82040e"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "cb07ee3c9ce90f04c44edcc50c21fda7e9664e534c32337d6f56f6b656eee7d5",
-      "size": 95624064,
-      "sig": "97e6f9e26912cbf6bb43b42425f169052d329c6914059096ed8b612fe57052d54bad573ef362551e221d4a2593e3978f0bf517f0e9430aae078fe93439184306"
+      "sha256": "edea5eb49c9758661d342083e54f72167e1735ad2fa28aa067d9b9111dfe6d21",
+      "size": 95694991,
+      "sig": "8cfaf5b234b34c2a2dcdf3537425fbf5ca3c2b2cf0d2e6f5cd30e50090f667951299f1522ccd3ba4cb2cb4540a6afcfb360d331460367547508a7895ea534800"
     }
   }
 }
