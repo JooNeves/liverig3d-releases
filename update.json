@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.133",
+  "version": "4.9.134",
   "date": "2026-11-21",
-  "notes": "Fixtures: o Mover põe os escolhidos outra vez como novos (clique no truss); planta em traço; painéis no banzo da frente, no de trás ou ao centro; vários fixtures iguais com modo DMX, nome, unidades e patch seguidos; a lista dos objetos guardados atualiza-se ao abrir o separador.",
-  "notesEn": "Fixtures: Move places the selected units again like new ones (click on a truss); line-art plan view; panels on the front chord, back chord or centre; several identical fixtures share DMX mode, name, consecutive units and patch; the saved-objects list refreshes when its tab opens.",
+  "notes": "Ferramenta Fixture: tecla ↑ põe no tubo de cima, ↓ no de baixo. Biblioteca ▸ Favoritos: botão para pôr nos favoritos o que está no projeto. Distribuir fixtures entre um início e um fim escolhidos com o rato no truss.",
+  "notesEn": "Fixture tool: ↑ key puts the unit on the top tube, ↓ on the bottom one. Library ▸ Favourites: button to add what is in the project. Distribute fixtures between a start and an end picked with the mouse on the truss.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "13b93f962c4fbac32976faf02c6e8b717418052faef2683d34054d720d056a20",
-      "size": 49986620,
-      "sig": "63de6f494ed3f575ab74bcde2c9812c015779b7ef2336376a546b3fcb5ba3f18827a52d5a6f92c5b21caf5c09d2e5520a377a061625ab017915294b2dd82040e"
+      "sha256": "e874f0002808aaa7acb547ef9ba8dd3cd42061148cfc262cb5b902f5e3fd1549",
+      "size": 49997137,
+      "sig": "be67f7c026b22ab03e5ad4c34683a30d4532f9ddbe8211df35a5bf9376deda73f69d6e79e68d536ca5506a51d5932387e3e27fb042c3dfa5ba3a5eda9e66aa09"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "edea5eb49c9758661d342083e54f72167e1735ad2fa28aa067d9b9111dfe6d21",
-      "size": 95694991,
-      "sig": "8cfaf5b234b34c2a2dcdf3537425fbf5ca3c2b2cf0d2e6f5cd30e50090f667951299f1522ccd3ba4cb2cb4540a6afcfb360d331460367547508a7895ea534800"
+      "sha256": "bae2d3e551b4fb81a30c1c37adb248f5323ce68d000bcb6c98f6a4160ee21060",
+      "size": 95692903,
+      "sig": "e3abc85826a815f0fc58cb895b7b547cd4a96db2f0c4a28666e14040d4563e3080736144251daa9888a5a630a2ff3cebdb0386cee19a95ded5b4833c44bfe30d"
     }
   }
 }
