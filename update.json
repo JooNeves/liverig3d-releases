@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.136",
+  "version": "4.9.137",
   "date": "2026-11-23",
-  "notes": "Painéis deslizam pelo truss e ficam alinhados com a fila dos dois lados; cotas nas vistas de frente, trás e lado; truss de pé (na vertical) com bases de aço, Shift + roda roda a peça, seta direita põe de pé; distribuir fixtures no chão entre dois pontos; fixtures presos aos tubos; Pan (rotação da lira) e Tilt rodam a lira e a cabeça.",
-  "notesEn": "Panels slide along the truss and stay in line with the row on both sides; dimensions in front, back and side views; standing (vertical) truss with steel bases, Shift + wheel turns the piece, right arrow stands it up; distribute fixtures on the floor between two points; fixtures clamp to pipes; Pan (yoke rotation) and Tilt turn the yoke and head.",
+  "notes": "Campos das etiquetas dos aparelhos (ID, unidade, patch, marca, canais DMX, posição, layer…) em todas as vistas, não só na de cima; numa linha na Simulação e no Live. Escolhe os campos em Ver ▸ Etiquetas ▸ Campos dos aparelhos.",
+  "notesEn": "Fixture label fields (ID, unit, patch, brand, DMX channels, position, layer…) in every view, not only the top view; one line in Simulation and Live. Pick the fields in View ▸ Labels ▸ Fixture fields.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "11384c71e3ef6d343f2253b7234104e6a3dfcd29cd631fe6a4fd7b4494320bbf",
-      "size": 50038272,
-      "sig": "e961d537b9e0f4dcaefcaf3f4575dba43d8087ee9b70f4e8bdcca95adf5db2ec989c41c5a9705ed8e227cfc968790261c8a6987a1dea3b0b440db6b0e615790a"
+      "sha256": "388da319d7d55d4167b3a258ea233a9c2c6c533500e6592122cecaf730cc4d07",
+      "size": 50041046,
+      "sig": "3c87fce483bc015fd62f0a2868584908473d9921ed4630b60dde979a71853e39dc2e4dfd95502917ca7d75993afc009fddd55b2cbf1a623eee34469e54359407"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "825bc65506a4da948e39e9612db298704d463c90259102302ea3ccad36332c12",
-      "size": 95740350,
-      "sig": "788d03549517fb905072fe33f06212de470227f7f9acaa5bc3c9afdc296e737c696081fdba8990a63eb697ed2c012e325bf9be143d9f54e4347c762480ae6d0e"
+      "sha256": "4523cb9eaa711891e7d46933d2bf1f4dc51993896e43ac57bb15e6fd5ef7197e",
+      "size": 95735150,
+      "sig": "dd80f8b8ebe7f3796eca415a473803e9cf3c3ebb3972f40d3e63c6b5a0bb2811be75ae874433071aeafde87b2c6db7499428f40d5e532984d75bd4e42070d10d"
     }
   }
 }
