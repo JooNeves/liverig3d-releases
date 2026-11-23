@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.137",
+  "version": "4.9.138",
   "date": "2026-11-23",
-  "notes": "Campos das etiquetas dos aparelhos (ID, unidade, patch, marca, canais DMX, posição, layer…) em todas as vistas, não só na de cima; numa linha na Simulação e no Live. Escolhe os campos em Ver ▸ Etiquetas ▸ Campos dos aparelhos.",
-  "notesEn": "Fixture label fields (ID, unit, patch, brand, DMX channels, position, layer…) in every view, not only the top view; one line in Simulation and Live. Pick the fields in View ▸ Labels ▸ Fixture fields.",
+  "notes": "CAD mais rápido com muitos fixtures: a geometria de cada aparelho fica guardada, os aparelhos longe desenham-se em caixa, escolher com o rato só testa os que estão perto do cursor e os painéis escondidos já não se refazem a cada mudança.",
+  "notesEn": "Faster CAD with many fixtures: each fixture's geometry is kept, far fixtures are drawn as boxes, mouse picking only tests fixtures near the cursor and hidden panels are no longer rebuilt on every change.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "388da319d7d55d4167b3a258ea233a9c2c6c533500e6592122cecaf730cc4d07",
-      "size": 50041046,
-      "sig": "3c87fce483bc015fd62f0a2868584908473d9921ed4630b60dde979a71853e39dc2e4dfd95502917ca7d75993afc009fddd55b2cbf1a623eee34469e54359407"
+      "sha256": "02c768a12014381e2db754f2ea3fbfc695b84a2699634f3b8e5d3ea3a5d5b262",
+      "size": 50047390,
+      "sig": "66a9eef86f5fe9b5f1c4fc0da71650b78670a6c80a35763b1829bcd2b0d40ef15f5fd2dd24898d37b692abc389fea267619774a76210469b343b06983799cf0e"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "4523cb9eaa711891e7d46933d2bf1f4dc51993896e43ac57bb15e6fd5ef7197e",
-      "size": 95735150,
-      "sig": "dd80f8b8ebe7f3796eca415a473803e9cf3c3ebb3972f40d3e63c6b5a0bb2811be75ae874433071aeafde87b2c6db7499428f40d5e532984d75bd4e42070d10d"
+      "sha256": "80be77ac999dfc1f06860349058da64ddb3463d5be05845f82b0acd8d28cdcb2",
+      "size": 95741825,
+      "sig": "b8ff24f7351dcc15a67078e61568f2ae93ab97f39ceafd53851b0876f0e839df2e78a40fedbab78c7286eca2e1cf40cc43aae06452501b869c01cea7a4aaef0a"
     }
   }
 }
