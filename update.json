@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.140",
-  "date": "2026-11-23",
-  "notes": "Layers escondidos e troca de scene mais leves (sem recalcular); contrapesos na biblioteca (IBC 1000 L de água, blocos de betão, tanques de água).",
-  "notesEn": "Hidden layers and scene switching are lighter (no recalculation); counterweights in the library (1000 L water IBC, concrete blocks, water tanks).",
+  "version": "4.9.142",
+  "date": "2026-11-25",
+  "notes": "Estrados praticáveis (49 modelos, pernas e tesoura) com encaixe automático e por área; parede de LED pela área (X × Y, ao centro); distância escrita em X/Y/Z nas cotas, Mover e Copiar; cotas no layer Dimensões; a roda do rato por cima de caixas de opções só rola a janela; imagem da peça na Biblioteca.",
+  "notesEn": "Stage decks (49 models, legs and scissor) with auto-match and area fill; LED wall by area (X × Y, centred); typed X/Y/Z distance for dimensions, Move and Copy; dimensions on a Dimensões layer; mouse wheel over option boxes only scrolls; Library item images.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "0cac234638648600778ddeb7213fc1b36663c64c158a089c26e66e529da6b7f4",
-      "size": 50048543,
-      "sig": "3d6abc00c7efb965a0852180b53bd23e980b4021704fdd03abe351fe149240cb4aa0301d9507e7a26ac61e2a47d4b913b5f67df9abd4ab765ffe71dd53906309"
+      "sha256": "1e11396f582ee466b6919388a636e47d6f46e706add5029326ffbf5de7b07f2a",
+      "size": 50135217,
+      "sig": "8a9da2c71500a222e4e674f9a34b4da52745f100bf729ab321683e927805e81e73a55854d3407366ac7fb02ca771a7e57b57c34a1e7866238ccc849e4b58b909"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "3e4ffe3000d7f050e5051a5a2b6cfa39d038b3d8dc23c3369e20ecdf4a9de456",
-      "size": 95748515,
-      "sig": "370072293900b221f34880fd881e7f6e13b2918d4fe3fdca5cf3acdcbadcd23d7bd66a503ec238b982c3fc29897bd41f7b122a2a5932fd4f90701a8917ed1b00"
+      "sha256": "dc309b1eacf2f6d0715a237220cd74c8d4051bbf66f55a4ba2de2f620f0b5fd5",
+      "size": 95897428,
+      "sig": "84e2e5de122b8cf447dd7dcbe23dcbd6d8b97786ca8eef54249b3684ae1896f74af669f93869354e07e653a75c9f3be925e1d15ad10c4ca9668f8ebd9f2de000"
     }
   }
 }
