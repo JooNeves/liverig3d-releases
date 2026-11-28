@@ -1,9 +1,9 @@
 {
   "format": "rigcalc-updates",
-  "version": "4.9.146",
-  "date": "2026-11-27",
-  "notes": "Consolas ADAPT (catálogo Metalusa) e Layher e ADAPT misturados quando encaixam; consolas com a roseta na ponta (catálogo Layher p. 34); aparelhos rodam ao longo do tubo onde agarram; Biblioteca: informação atrás do botão ⓘ e troca de separador limpa a peça anterior.",
-  "notesEn": "ADAPT console brackets (Metalusa catalogue) and Layher and ADAPT mixed when they fit; brackets with the rosette at the tip (Layher catalogue p. 34); fixtures turn along the pipe they clamp on; Library: info behind the ⓘ button and switching tabs drops the previous part.",
+  "version": "4.9.147",
+  "date": "2026-11-28",
+  "notes": "Correções do teste manual com o rato: imagem da Biblioteca com área fixa (o duplo clique já não cai noutra linha), botões das ferramentas pela acessibilidade, nome dos motores nos avisos, painéis que não passam da coluna, campos dos aparelhos legíveis ao longe, seleção na barra de estado, a roda rola os painéis, legendas dos motores nas folhas, pesos das agarras com casas decimais.",
+  "notesEn": "Fixes from a manual mouse test: steady Library picture area (double click no longer lands on another row), tool buttons via accessibility, hoist names in warnings, panels no wider than the dock, readable fixture fields when zoomed out, selection in the status bar, wheel scrolls panels, hoist legends on layout sheets, clamp weights with decimals.",
   "downloads": {
     "windows": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
     "mac": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg"
@@ -11,15 +11,15 @@
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/windows/LiveRig3D-windows.zip",
-      "sha256": "3ddd6a7266565df45ef1552fc2d7ad58d08bf9ad4a340366e3536b838b7df2ce",
-      "size": 50184554,
-      "sig": "8ec890c7e3563abc8a8f13538af9c9bdf364d1f596ea999f94297431c867fc047c61284d9818d45922352cae04f821596dacad394f6a4929ae75db9310cfe80c"
+      "sha256": "e98bc947cd597d9a52a8b48e0f5dc64424e63f4fa0ae2187d8674b4c8fe29a47",
+      "size": 50185805,
+      "sig": "29fdeb6f54964731b7983fb91c04bdd6d64db3d8a7ea87e7b5e4b15827df63e320dec63fb6639b33f8ab06bb5fa350a9c526cdb3f7255ee822427cc8bad2d60c"
     },
     "mac": {
       "url": "https://raw.githubusercontent.com/JooNeves/liverig3d-releases/main/mac/LiveRig3D-mac.dmg",
-      "sha256": "20556ad84c944e2f006292bafdca950700385fa667069637df1d63d073db5bf2",
-      "size": 95997581,
-      "sig": "c30a6158203466e3f3d1e0a8c80c4390d9219f6a7cff2528c700601f66190cb132e6b5773a4e2d78c351af1532799353636e667c9a9e0b6223336f82829d140b"
+      "sha256": "6f659796ef147e95c60586d2fb2737587a604e34b94cb72724e99e120f683def",
+      "size": 95990273,
+      "sig": "d2ad9ee543a4dafedf088764c969f131cac13b9d4886b8040a1cf11bb66baac4d9f91a77b8b409436d7a4859fe9b1c45c8ba457a685e8e0208495c0ab4b63304"
     }
   }
 }
